@@ -1,35 +1,28 @@
-import math
+import h3
+import matplotlib.pyplot as plt
 
-HEX_DIRECTIONS = [
-    (1, 0), (1, -1), (0, -1),
-    (-1, 0), (-1, 1), (0, 1)
-]
+geo = {
+    "type": "Polygon",
+    "coordinates": [[
+        [126.6, 37.3],
+        [127.3, 37.3],
+        [127.3, 37.8],
+        [126.6, 37.8],
+        [126.6, 37.3]
+    ]]
+}
 
-class HexGrid:
-    def __init__(self, radius):
-        self.radius = radius
-        self.cells = self.generate_hex_cells()
+resolution = 7
+h3_cells = h3.geo_to_cells(geo, resolution)
 
-    def generate_hex_cells(self):
-        cells = []
-        for q in range(-self.radius, self.radius + 1):
-            r1 = max(-self.radius, -q - self.radius)
-            r2 = min(self.radius, -q + self.radius)
-            for r in range(r1, r2 + 1):
-                cells.append((q, r))
-        return cells
+fig, ax = plt.subplots(figsize=(8, 8))
 
-    def get_neighbors(self, cell):
-        q, r = cell
-        neighbors = []
-        for dq, dr in HEX_DIRECTIONS:
-            nxt = (q + dq, r + dr)
-            if nxt in self.cells:
-                neighbors.append(nxt)
-        return neighbors
+for cell in h3_cells:
+    boundary = h3.cell_to_boundary(cell)
+    xs = [lng for lat, lng in boundary]
+    ys = [lat for lat, lng in boundary]
+    ax.fill(xs, ys, edgecolor="black", linewidth=0.3, alpha=0.6)
 
-    def axial_to_pixel(self, cell, size=1.0):
-        q, r = cell
-        x = size * (3/2 * q)
-        y = size * (math.sqrt(3) * (r + q/2))
-        return (x, y)
+ax.set_aspect("equal")
+ax.set_title(f"H3 grid, res={resolution}")
+plt.show()
