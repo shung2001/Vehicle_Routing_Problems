@@ -1,695 +1,695 @@
 ﻿
 ===== 00:00 ~ 00:59 결과 =====
-Objective: 2698374
+Objective: 3044645
 Route for vehicle 0:
- Bundang_Townhall ->  경기 성남시 분당구 야탑동 ->  경기 성남시 분당구 서현동 ->  경기 수원시 영통구 원천동 -> Bundang_Townhall
-Distance of the route: 26321m
+ Depot_Gwang_Myeong ->  Gwang_Myeong -> Depot_Gwang_Myeong
+Distance of the route: 0m
 
 Route for vehicle 1:
- Gimpo_Airport ->  서울 강서구 등촌동 ->  서울 양천구 목동 ->  경기 부천시 중동 ->  인천 계양구 계산동 ->  경기 부천시 오정동 -> Gimpo_Airport
-Distance of the route: 22774m
+ Depot_Bundang_Townhall ->  경기 수원시 영통구 원천동 ->  Beom_Gye -> Depot_Beom_Gye
+Distance of the route: 29469m
 
 Route for vehicle 2:
- Beom_Gye ->  경기 안양시 동안구 평촌동 ->  경기 안양시 만안구 안양동 -> Beom_Gye
-Distance of the route: 10912m
+ Depot_Kintex ->  서울 양천구 신정동 ->  서울 구로구 구로동 ->  서울 강서구 화곡동 ->  경기 성남시 분당구 야탑동 ->  경기 성남시 분당구 서현동 ->  Bundang_Townhall -> Depot_Bundang_Townhall
+Distance of the route: 29099m
 
 Route for vehicle 3:
- Kintex ->  서울 양천구 목동 ->  서울 강서구 화곡동 ->  서울 구로구 구로동 ->  서울 양천구 신정동 -> Kintex
-Distance of the route: 6267m
+ Depot_Incheon_Airport -> Depot_Gimpo_Airport
+Distance of the route: 0m
 
 Route for vehicle 4:
- Gwang_Myeong -> Gwang_Myeong
-Distance of the route: 0m
+ Depot_Beom_Gye ->  경기 안양시 동안구 평촌동 ->  경기 안양시 만안구 안양동 ->  Gimpo_Airport ->  경기 부천시 오정동 ->  경기 부천시 중동 ->  인천 계양구 계산동 ->  Incheon_Airport -> Depot_Incheon_Airport
+Distance of the route: 26783m
 
 Route for vehicle 5:
- Incheon_Airport -> Incheon_Airport
-Distance of the route: 0m
+ Depot_Gimpo_Airport ->  서울 강서구 등촌동 ->  서울 양천구 목동 ->  서울 양천구 목동 ->  Kintex -> Depot_Kintex
+Distance of the route: 12394m
 
-Maximum of the route distances: 26321m
+Maximum of the route distances: 29469m
 
 
 ===== 01:00 ~ 01:59 결과 =====
-Objective: 2849881
+Objective: 3154070
 Route for vehicle 0:
- Bundang_Townhall ->  경기 성남시 분당구 서현동 ->  경기 수원시 영통구 원천동 ->  경기 성남시 분당구 야탑동 -> Bundang_Townhall
-Distance of the route: 27812m
+ Depot_Kintex ->  서울 양천구 신정동 ->  서울 구로구 구로동 ->  서울 강서구 화곡동 ->  서울 양천구 목동 ->  서울 양천구 목동 ->  Kintex -> Depot_Kintex
+Distance of the route: 10370m
 
 Route for vehicle 1:
- Gimpo_Airport ->  서울 강서구 등촌동 ->  서울 양천구 목동 ->  경기 부천시 중동 ->  인천 계양구 계산동 ->  경기 부천시 오정동 -> Gimpo_Airport
-Distance of the route: 23286m
+ Depot_Incheon_Airport -> Depot_Gimpo_Airport
+Distance of the route: 0m
 
 Route for vehicle 2:
- Beom_Gye ->  경기 안양시 동안구 평촌동 ->  경기 안양시 만안구 안양동 -> Beom_Gye
-Distance of the route: 11115m
+ Depot_Bundang_Townhall ->  Bundang_Townhall ->  경기 성남시 분당구 서현동 ->  경기 수원시 영통구 원천동 ->  Beom_Gye -> Depot_Beom_Gye
+Distance of the route: 30707m
 
 Route for vehicle 3:
- Kintex ->  서울 양천구 신정동 ->  서울 구로구 구로동 ->  서울 강서구 화곡동 ->  서울 양천구 목동 -> Kintex
-Distance of the route: 6468m
+ Depot_Beom_Gye ->  경기 안양시 만안구 안양동 ->  경기 안양시 동안구 평촌동 ->  경기 성남시 분당구 야탑동 -> Depot_Bundang_Townhall
+Distance of the route: 23622m
 
 Route for vehicle 4:
- Gwang_Myeong -> Gwang_Myeong
-Distance of the route: 0m
+ Depot_Gimpo_Airport ->  서울 강서구 등촌동 ->  Gimpo_Airport ->  경기 부천시 오정동 ->  경기 부천시 중동 ->  인천 계양구 계산동 ->  Incheon_Airport -> Depot_Incheon_Airport
+Distance of the route: 18671m
 
 Route for vehicle 5:
- Incheon_Airport -> Incheon_Airport
+ Depot_Gwang_Myeong ->  Gwang_Myeong -> Depot_Gwang_Myeong
 Distance of the route: 0m
 
-Maximum of the route distances: 27812m
+Maximum of the route distances: 30707m
 
 
 ===== 02:00 ~ 02:59 결과 =====
-Objective: 2827486
+Objective: 2033084
 Route for vehicle 0:
- Bundang_Townhall ->  경기 성남시 분당구 서현동 ->  경기 수원시 영통구 원천동 ->  경기 성남시 분당구 야탑동 -> Bundang_Townhall
-Distance of the route: 27586m
+ Depot_Gwang_Myeong ->  경기 안양시 만안구 안양동 ->  Beom_Gye -> Depot_Beom_Gye
+Distance of the route: 18681m
 
 Route for vehicle 1:
- Gimpo_Airport ->  서울 강서구 등촌동 ->  서울 양천구 목동 ->  경기 부천시 중동 ->  인천 계양구 계산동 ->  경기 부천시 오정동 -> Gimpo_Airport
-Distance of the route: 23614m
+ Depot_Beom_Gye ->  경기 안양시 동안구 평촌동 ->  서울 양천구 신정동 ->  Kintex -> Depot_Kintex
+Distance of the route: 17364m
 
 Route for vehicle 2:
- Beom_Gye ->  경기 안양시 만안구 안양동 ->  경기 안양시 동안구 평촌동 -> Beom_Gye
-Distance of the route: 11204m
+ Depot_Incheon_Airport -> Depot_Bundang_Townhall
+Distance of the route: 0m
 
 Route for vehicle 3:
- Kintex ->  서울 양천구 신정동 ->  서울 구로구 구로동 ->  서울 강서구 화곡동 ->  서울 양천구 목동 -> Kintex
-Distance of the route: 6482m
+ Depot_Kintex ->  서울 양천구 목동 ->  서울 강서구 등촌동 ->  서울 양천구 목동 ->  서울 구로구 구로동 ->  서울 강서구 화곡동 ->  Gwang_Myeong -> Depot_Gwang_Myeong
+Distance of the route: 18341m
 
 Route for vehicle 4:
- Gwang_Myeong -> Gwang_Myeong
-Distance of the route: 0m
+ Depot_Gimpo_Airport ->  경기 부천시 오정동 ->  경기 부천시 중동 ->  인천 계양구 계산동 ->  Gimpo_Airport -> Depot_Gimpo_Airport
+Distance of the route: 15561m
 
 Route for vehicle 5:
- Incheon_Airport -> Incheon_Airport
-Distance of the route: 0m
+ Depot_Bundang_Townhall ->  Bundang_Townhall ->  경기 성남시 분당구 야탑동 ->  경기 성남시 분당구 서현동 ->  경기 수원시 영통구 원천동 ->  Incheon_Airport -> Depot_Incheon_Airport
+Distance of the route: 19437m
 
-Maximum of the route distances: 27586m
+Maximum of the route distances: 19437m
 
 
 ===== 03:00 ~ 03:59 결과 =====
-Objective: 2883484
+Objective: 3641239
 Route for vehicle 0:
- Bundang_Townhall ->  경기 성남시 분당구 서현동 ->  경기 수원시 영통구 원천동 ->  경기 성남시 분당구 야탑동 -> Bundang_Townhall
-Distance of the route: 28144m
+ Depot_Incheon_Airport -> Depot_Gwang_Myeong
+Distance of the route: 0m
 
 Route for vehicle 1:
- Gimpo_Airport ->  서울 강서구 등촌동 ->  서울 양천구 목동 ->  경기 부천시 중동 ->  인천 계양구 계산동 ->  경기 부천시 오정동 -> Gimpo_Airport
-Distance of the route: 23419m
+ Depot_Bundang_Townhall ->  Bundang_Townhall ->  Gimpo_Airport ->  서울 강서구 등촌동 ->  서울 양천구 목동 ->  서울 양천구 신정동 ->  Gwang_Myeong ->  Beom_Gye -> Depot_Beom_Gye
+Distance of the route: 35151m
 
 Route for vehicle 2:
- Beom_Gye ->  경기 안양시 만안구 안양동 ->  경기 안양시 동안구 평촌동 -> Beom_Gye
-Distance of the route: 11130m
+ Depot_Gwang_Myeong -> Depot_Kintex
+Distance of the route: 0m
 
 Route for vehicle 3:
- Kintex ->  서울 양천구 신정동 ->  서울 구로구 구로동 ->  서울 강서구 화곡동 ->  서울 양천구 목동 -> Kintex
-Distance of the route: 6391m
+ Depot_Gimpo_Airport ->  서울 양천구 목동 ->  경기 성남시 분당구 서현동 ->  경기 성남시 분당구 야탑동 -> Depot_Bundang_Townhall
+Distance of the route: 35168m
 
 Route for vehicle 4:
- Gwang_Myeong -> Gwang_Myeong
-Distance of the route: 0m
+ Depot_Beom_Gye ->  경기 안양시 동안구 평촌동 ->  경기 안양시 만안구 안양동 ->  경기 수원시 영통구 원천동 ->  Incheon_Airport -> Depot_Incheon_Airport
+Distance of the route: 28732m
 
 Route for vehicle 5:
- Incheon_Airport -> Incheon_Airport
-Distance of the route: 0m
+ Depot_Kintex ->  Kintex ->  서울 구로구 구로동 ->  서울 강서구 화곡동 ->  경기 부천시 중동 ->  인천 계양구 계산동 ->  경기 부천시 오정동 -> Depot_Gimpo_Airport
+Distance of the route: 25388m
 
-Maximum of the route distances: 28144m
+Maximum of the route distances: 35168m
 
 
 ===== 04:00 ~ 04:59 결과 =====
-Objective: 2809809
+Objective: 2995621
 Route for vehicle 0:
- Bundang_Townhall ->  경기 성남시 분당구 서현동 ->  경기 수원시 영통구 원천동 ->  경기 성남시 분당구 야탑동 -> Bundang_Townhall
-Distance of the route: 27433m
+ Depot_Kintex -> Depot_Bundang_Townhall
+Distance of the route: 0m
 
 Route for vehicle 1:
- Gimpo_Airport ->  서울 강서구 등촌동 ->  서울 양천구 목동 ->  경기 부천시 중동 ->  인천 계양구 계산동 ->  경기 부천시 오정동 -> Gimpo_Airport
-Distance of the route: 22347m
+ Depot_Gwang_Myeong ->  서울 강서구 화곡동 ->  서울 구로구 구로동 ->  서울 양천구 목동 ->  Kintex ->  서울 양천구 신정동 -> Depot_Kintex
+Distance of the route: 7645m
 
 Route for vehicle 2:
- Beom_Gye ->  경기 안양시 만안구 안양동 ->  경기 안양시 동안구 평촌동 -> Beom_Gye
-Distance of the route: 10705m
+ Depot_Gimpo_Airport ->  서울 강서구 등촌동 ->  서울 양천구 목동 ->  경기 부천시 중동 ->  인천 계양구 계산동 ->  경기 부천시 오정동 ->  Gimpo_Airport -> Depot_Gimpo_Airport
+Distance of the route: 22347m
 
 Route for vehicle 3:
- Kintex ->  서울 양천구 신정동 ->  서울 구로구 구로동 ->  서울 강서구 화곡동 ->  서울 양천구 목동 -> Kintex
-Distance of the route: 6024m
+ Depot_Beom_Gye ->  Beom_Gye ->  경기 안양시 동안구 평촌동 ->  경기 성남시 분당구 야탑동 ->  경기 성남시 분당구 서현동 ->  경기 수원시 영통구 원천동 ->  Incheon_Airport -> Depot_Incheon_Airport
+Distance of the route: 28953m
 
 Route for vehicle 4:
- Gwang_Myeong -> Gwang_Myeong
-Distance of the route: 0m
+ Depot_Bundang_Townhall ->  Bundang_Townhall ->  경기 안양시 만안구 안양동 ->  Gwang_Myeong -> Depot_Gwang_Myeong
+Distance of the route: 29076m
 
 Route for vehicle 5:
- Incheon_Airport -> Incheon_Airport
+ Depot_Incheon_Airport -> Depot_Beom_Gye
 Distance of the route: 0m
 
-Maximum of the route distances: 27433m
+Maximum of the route distances: 29076m
 
 
 ===== 05:00 ~ 05:59 결과 =====
-Objective: 2804024
+Objective: 3583852
 Route for vehicle 0:
- Bundang_Townhall ->  경기 성남시 분당구 서현동 ->  경기 수원시 영통구 원천동 ->  경기 성남시 분당구 야탑동 -> Bundang_Townhall
-Distance of the route: 27372m
+ Depot_Kintex -> Depot_Gimpo_Airport
+Distance of the route: 0m
 
 Route for vehicle 1:
- Gimpo_Airport ->  서울 강서구 등촌동 ->  서울 양천구 목동 ->  경기 부천시 중동 ->  인천 계양구 계산동 ->  경기 부천시 오정동 -> Gimpo_Airport
-Distance of the route: 22886m
+ Depot_Beom_Gye ->  Beom_Gye ->  경기 안양시 만안구 안양동 ->  경기 안양시 동안구 평촌동 ->  경기 성남시 분당구 야탑동 ->  Bundang_Townhall -> Depot_Bundang_Townhall
+Distance of the route: 22273m
 
 Route for vehicle 2:
- Beom_Gye ->  경기 안양시 만안구 안양동 ->  경기 안양시 동안구 평촌동 -> Beom_Gye
-Distance of the route: 10492m
+ Depot_Incheon_Airport -> Depot_Kintex
+Distance of the route: 0m
 
 Route for vehicle 3:
- Kintex ->  서울 양천구 신정동 ->  서울 구로구 구로동 ->  서울 강서구 화곡동 ->  서울 양천구 목동 -> Kintex
-Distance of the route: 6074m
+ Depot_Gwang_Myeong -> Depot_Beom_Gye
+Distance of the route: 0m
 
 Route for vehicle 4:
- Gwang_Myeong -> Gwang_Myeong
-Distance of the route: 0m
+ Depot_Bundang_Townhall ->  경기 성남시 분당구 서현동 ->  경기 수원시 영통구 원천동 ->  Gimpo_Airport ->  서울 양천구 목동 ->  Gwang_Myeong -> Depot_Gwang_Myeong
+Distance of the route: 34985m
 
 Route for vehicle 5:
- Incheon_Airport -> Incheon_Airport
-Distance of the route: 0m
+ Depot_Gimpo_Airport ->  서울 강서구 등촌동 ->  서울 양천구 목동 ->  Kintex ->  서울 양천구 신정동 ->  서울 구로구 구로동 ->  서울 강서구 화곡동 ->  경기 부천시 중동 ->  경기 부천시 오정동 ->  인천 계양구 계산동 ->  Incheon_Airport -> Depot_Incheon_Airport
+Distance of the route: 28094m
 
-Maximum of the route distances: 27372m
+Maximum of the route distances: 34985m
 
 
 ===== 06:00 ~ 06:59 결과 =====
-Objective: 2840797
+Objective: 3913839
 Route for vehicle 0:
- Bundang_Townhall ->  경기 성남시 분당구 야탑동 ->  경기 성남시 분당구 서현동 ->  경기 수원시 영통구 원천동 -> Bundang_Townhall
-Distance of the route: 27724m
+ Depot_Gimpo_Airport ->  경기 안양시 동안구 평촌동 ->  경기 수원시 영통구 원천동 ->  Incheon_Airport -> Depot_Incheon_Airport
+Distance of the route: 38039m
 
 Route for vehicle 1:
- Gimpo_Airport ->  서울 강서구 등촌동 ->  서울 양천구 목동 ->  경기 부천시 중동 ->  인천 계양구 계산동 ->  경기 부천시 오정동 -> Gimpo_Airport
-Distance of the route: 23583m
+ Depot_Incheon_Airport -> Depot_Gimpo_Airport
+Distance of the route: 0m
 
 Route for vehicle 2:
- Beom_Gye ->  경기 안양시 만안구 안양동 ->  경기 안양시 동안구 평촌동 -> Beom_Gye
-Distance of the route: 10483m
+ Depot_Gwang_Myeong -> Depot_Beom_Gye
+Distance of the route: 0m
 
 Route for vehicle 3:
- Kintex ->  서울 양천구 신정동 ->  서울 강서구 화곡동 ->  서울 구로구 구로동 ->  서울 양천구 목동 -> Kintex
-Distance of the route: 6607m
+ Depot_Kintex -> Depot_Bundang_Townhall
+Distance of the route: 0m
 
 Route for vehicle 4:
- Gwang_Myeong -> Gwang_Myeong
-Distance of the route: 0m
+ Depot_Beom_Gye ->  Beom_Gye ->  경기 안양시 만안구 안양동 ->  서울 강서구 화곡동 ->  서울 구로구 구로동 ->  서울 양천구 목동 ->  서울 강서구 등촌동 ->  서울 양천구 목동 ->  서울 양천구 신정동 ->  Kintex -> Depot_Kintex
+Distance of the route: 36534m
 
 Route for vehicle 5:
- Incheon_Airport -> Incheon_Airport
-Distance of the route: 0m
+ Depot_Bundang_Townhall ->  Bundang_Townhall ->  경기 성남시 분당구 야탑동 ->  경기 성남시 분당구 서현동 ->  Gimpo_Airport ->  경기 부천시 오정동 ->  인천 계양구 계산동 ->  경기 부천시 중동 ->  Gwang_Myeong -> Depot_Gwang_Myeong
+Distance of the route: 35366m
 
-Maximum of the route distances: 27724m
+Maximum of the route distances: 38039m
 
 
 ===== 07:00 ~ 07:59 결과 =====
-Objective: 2854369
+Objective: 3286701
 Route for vehicle 0:
- Bundang_Townhall ->  경기 성남시 분당구 야탑동 ->  경기 수원시 영통구 원천동 ->  경기 성남시 분당구 서현동 -> Bundang_Townhall
-Distance of the route: 27873m
+ Depot_Gimpo_Airport ->  경기 부천시 오정동 ->  경기 부천시 중동 ->  인천 계양구 계산동 ->  Gimpo_Airport ->  서울 강서구 등촌동 ->  서울 양천구 목동 ->  Gwang_Myeong -> Depot_Gwang_Myeong
+Distance of the route: 26921m
 
 Route for vehicle 1:
- Gimpo_Airport ->  서울 강서구 등촌동 ->  서울 양천구 목동 ->  경기 부천시 중동 ->  인천 계양구 계산동 ->  경기 부천시 오정동 -> Gimpo_Airport
-Distance of the route: 22451m
+ Depot_Kintex ->  서울 양천구 목동 ->  Kintex ->  서울 양천구 신정동 ->  서울 구로구 구로동 ->  서울 강서구 화곡동 ->  경기 안양시 만안구 안양동 ->  Incheon_Airport -> Depot_Incheon_Airport
+Distance of the route: 22124m
 
 Route for vehicle 2:
- Beom_Gye ->  경기 안양시 만안구 안양동 ->  경기 안양시 동안구 평촌동 -> Beom_Gye
-Distance of the route: 11125m
+ Depot_Bundang_Townhall -> Depot_Kintex
+Distance of the route: 0m
 
 Route for vehicle 3:
- Kintex ->  서울 양천구 신정동 ->  서울 구로구 구로동 ->  서울 강서구 화곡동 ->  서울 양천구 목동 -> Kintex
-Distance of the route: 5620m
+ Depot_Beom_Gye ->  Beom_Gye ->  경기 안양시 동안구 평촌동 ->  경기 수원시 영통구 원천동 ->  경기 성남시 분당구 서현동 ->  경기 성남시 분당구 야탑동 ->  Bundang_Townhall -> Depot_Bundang_Townhall
+Distance of the route: 32056m
 
 Route for vehicle 4:
- Gwang_Myeong -> Gwang_Myeong
+ Depot_Gwang_Myeong -> Depot_Gimpo_Airport
 Distance of the route: 0m
 
 Route for vehicle 5:
- Incheon_Airport -> Incheon_Airport
+ Depot_Incheon_Airport -> Depot_Beom_Gye
 Distance of the route: 0m
 
-Maximum of the route distances: 27873m
+Maximum of the route distances: 32056m
 
 
 ===== 08:00 ~ 08:59 결과 =====
-Objective: 2820894
+Objective: 3515353
 Route for vehicle 0:
- Bundang_Townhall ->  경기 성남시 분당구 야탑동 ->  경기 성남시 분당구 서현동 ->  경기 수원시 영통구 원천동 -> Bundang_Townhall
-Distance of the route: 27527m
+ Depot_Incheon_Airport -> Depot_Bundang_Townhall
+Distance of the route: 0m
 
 Route for vehicle 1:
- Gimpo_Airport ->  서울 강서구 등촌동 ->  서울 양천구 목동 ->  인천 계양구 계산동 ->  경기 부천시 중동 ->  경기 부천시 오정동 -> Gimpo_Airport
-Distance of the route: 22861m
+ Depot_Beom_Gye ->  Beom_Gye ->  Gimpo_Airport ->  서울 강서구 등촌동 ->  서울 양천구 목동 ->  서울 강서구 화곡동 ->  서울 구로구 구로동 ->  서울 양천구 신정동 ->  서울 양천구 목동 ->  Kintex -> Depot_Kintex
+Distance of the route: 22466m
 
 Route for vehicle 2:
- Beom_Gye ->  경기 안양시 동안구 평촌동 ->  경기 안양시 만안구 안양동 -> Beom_Gye
-Distance of the route: 11176m
+ Depot_Gwang_Myeong -> Depot_Beom_Gye
+Distance of the route: 0m
 
 Route for vehicle 3:
- Kintex ->  서울 양천구 목동 ->  서울 구로구 구로동 ->  서울 강서구 화곡동 ->  서울 양천구 신정동 -> Kintex
-Distance of the route: 6630m
+ Depot_Gimpo_Airport ->  경기 부천시 오정동 ->  인천 계양구 계산동 ->  경기 부천시 중동 -> Depot_Gimpo_Airport
+Distance of the route: 19288m
 
 Route for vehicle 4:
- Gwang_Myeong -> Gwang_Myeong
-Distance of the route: 0m
+ Depot_Kintex ->  경기 수원시 영통구 원천동 ->  Incheon_Airport -> Depot_Incheon_Airport
+Distance of the route: 34062m
 
 Route for vehicle 5:
- Incheon_Airport -> Incheon_Airport
-Distance of the route: 0m
+ Depot_Bundang_Townhall ->  Bundang_Townhall ->  경기 성남시 분당구 야탑동 ->  경기 성남시 분당구 서현동 ->  경기 안양시 동안구 평촌동 ->  경기 안양시 만안구 안양동 ->  Gwang_Myeong -> Depot_Gwang_Myeong
+Distance of the route: 33337m
 
-Maximum of the route distances: 27527m
+Maximum of the route distances: 34062m
 
 
 ===== 09:00 ~ 09:59 결과 =====
-Objective: 2656292
+Objective: 3218420
 Route for vehicle 0:
- Bundang_Townhall ->  경기 성남시 분당구 서현동 ->  경기 수원시 영통구 원천동 ->  경기 성남시 분당구 야탑동 -> Bundang_Townhall
-Distance of the route: 25911m
+ Depot_Bundang_Townhall ->  Bundang_Townhall ->  경기 성남시 분당구 야탑동 ->  경기 성남시 분당구 서현동 ->  경기 수원시 영통구 원천동 ->  Gimpo_Airport ->  Gwang_Myeong -> Depot_Gwang_Myeong
+Distance of the route: 31417m
 
 Route for vehicle 1:
- Gimpo_Airport ->  서울 강서구 등촌동 ->  서울 양천구 목동 ->  인천 계양구 계산동 ->  경기 부천시 중동 ->  경기 부천시 오정동 -> Gimpo_Airport
-Distance of the route: 21509m
+ Depot_Kintex -> Depot_Bundang_Townhall
+Distance of the route: 0m
 
 Route for vehicle 2:
- Beom_Gye ->  경기 안양시 만안구 안양동 ->  경기 안양시 동안구 평촌동 -> Beom_Gye
-Distance of the route: 11226m
+ Depot_Beom_Gye ->  Beom_Gye ->  경기 안양시 동안구 평촌동 ->  경기 안양시 만안구 안양동 ->  인천 계양구 계산동 ->  경기 부천시 중동 ->  경기 부천시 오정동 ->  Incheon_Airport -> Depot_Incheon_Airport
+Distance of the route: 26954m
 
 Route for vehicle 3:
- Kintex ->  서울 양천구 신정동 ->  서울 강서구 화곡동 ->  서울 구로구 구로동 ->  서울 양천구 목동 -> Kintex
-Distance of the route: 6546m
+ Depot_Gwang_Myeong ->  서울 강서구 화곡동 ->  서울 구로구 구로동 ->  서울 양천구 목동 ->  서울 강서구 등촌동 ->  서울 양천구 목동 ->  Kintex ->  서울 양천구 신정동 -> Depot_Kintex
+Distance of the route: 18349m
 
 Route for vehicle 4:
- Gwang_Myeong -> Gwang_Myeong
+ Depot_Incheon_Airport -> Depot_Beom_Gye
 Distance of the route: 0m
 
 Route for vehicle 5:
- Incheon_Airport -> Incheon_Airport
+ Depot_Gimpo_Airport -> Depot_Gimpo_Airport
 Distance of the route: 0m
 
-Maximum of the route distances: 25911m
+Maximum of the route distances: 31417m
 
 
 ===== 10:00 ~ 10:59 결과 =====
-Objective: 2706857
+Objective: 3122897
 Route for vehicle 0:
- Bundang_Townhall ->  경기 성남시 분당구 서현동 ->  경기 수원시 영통구 원천동 ->  경기 성남시 분당구 야탑동 -> Bundang_Townhall
-Distance of the route: 26392m
+ Depot_Bundang_Townhall ->  경기 성남시 분당구 야탑동 ->  경기 성남시 분당구 서현동 ->  Gimpo_Airport ->  서울 강서구 등촌동 ->  서울 양천구 목동 ->  서울 양천구 목동 ->  Kintex -> Depot_Kintex
+Distance of the route: 24346m
 
 Route for vehicle 1:
- Gimpo_Airport ->  서울 강서구 등촌동 ->  서울 양천구 목동 ->  경기 부천시 중동 ->  인천 계양구 계산동 ->  경기 부천시 오정동 -> Gimpo_Airport
-Distance of the route: 23529m
+ Depot_Gimpo_Airport -> Depot_Gwang_Myeong
+Distance of the route: 0m
 
 Route for vehicle 2:
- Beom_Gye ->  경기 안양시 만안구 안양동 ->  경기 안양시 동안구 평촌동 -> Beom_Gye
-Distance of the route: 11195m
+ Depot_Beom_Gye ->  경기 수원시 영통구 원천동 ->  Bundang_Townhall -> Depot_Bundang_Townhall
+Distance of the route: 30204m
 
 Route for vehicle 3:
- Kintex ->  서울 양천구 목동 ->  서울 구로구 구로동 ->  서울 강서구 화곡동 ->  서울 양천구 신정동 -> Kintex
-Distance of the route: 6541m
+ Depot_Kintex ->  서울 양천구 신정동 ->  서울 구로구 구로동 ->  서울 강서구 화곡동 ->  Gwang_Myeong ->  경기 안양시 만안구 안양동 ->  경기 안양시 동안구 평촌동 ->  Beom_Gye -> Depot_Beom_Gye
+Distance of the route: 23848m
 
 Route for vehicle 4:
- Gwang_Myeong -> Gwang_Myeong
+ Depot_Incheon_Airport ->  Incheon_Airport -> Depot_Incheon_Airport
 Distance of the route: 0m
 
 Route for vehicle 5:
- Incheon_Airport -> Incheon_Airport
-Distance of the route: 0m
+ Depot_Gwang_Myeong ->  경기 부천시 중동 ->  인천 계양구 계산동 ->  경기 부천시 오정동 -> Depot_Gimpo_Airport
+Distance of the route: 24099m
 
-Maximum of the route distances: 26392m
+Maximum of the route distances: 30204m
 
 
 ===== 11:00 ~ 11:59 결과 =====
-Objective: 2548689
+Objective: 3229969
 Route for vehicle 0:
- Bundang_Townhall ->  경기 성남시 분당구 야탑동 ->  경기 성남시 분당구 서현동 ->  경기 수원시 영통구 원천동 -> Bundang_Townhall
-Distance of the route: 24883m
+ Depot_Bundang_Townhall ->  Bundang_Townhall ->  경기 성남시 분당구 야탑동 ->  경기 성남시 분당구 서현동 ->  경기 수원시 영통구 원천동 ->  경기 안양시 동안구 평촌동 ->  Beom_Gye -> Depot_Beom_Gye
+Distance of the route: 31599m
 
 Route for vehicle 1:
- Gimpo_Airport ->  서울 강서구 등촌동 ->  서울 양천구 목동 ->  인천 계양구 계산동 ->  경기 부천시 중동 ->  경기 부천시 오정동 -> Gimpo_Airport
-Distance of the route: 18944m
+ Depot_Gwang_Myeong ->  Gwang_Myeong ->  인천 계양구 계산동 ->  경기 부천시 중동 ->  경기 부천시 오정동 ->  Incheon_Airport -> Depot_Incheon_Airport
+Distance of the route: 13870m
 
 Route for vehicle 2:
- Beom_Gye ->  경기 안양시 만안구 안양동 ->  경기 안양시 동안구 평촌동 -> Beom_Gye
-Distance of the route: 11187m
+ Depot_Kintex -> Depot_Gimpo_Airport
+Distance of the route: 0m
 
 Route for vehicle 3:
- Kintex ->  서울 양천구 신정동 ->  서울 구로구 구로동 ->  서울 강서구 화곡동 ->  서울 양천구 목동 -> Kintex
-Distance of the route: 5375m
+ Depot_Incheon_Airport -> Depot_Bundang_Townhall
+Distance of the route: 0m
 
 Route for vehicle 4:
- Gwang_Myeong -> Gwang_Myeong
+ Depot_Gimpo_Airport -> Depot_Gwang_Myeong
 Distance of the route: 0m
 
 Route for vehicle 5:
- Incheon_Airport -> Incheon_Airport
-Distance of the route: 0m
+ Depot_Beom_Gye ->  경기 안양시 만안구 안양동 ->  Gimpo_Airport ->  서울 강서구 등촌동 ->  서울 양천구 목동 ->  서울 양천구 목동 ->  서울 양천구 신정동 ->  서울 구로구 구로동 ->  서울 강서구 화곡동 ->  Kintex -> Depot_Kintex
+Distance of the route: 24600m
 
-Maximum of the route distances: 24883m
+Maximum of the route distances: 31599m
 
 
 ===== 12:00 ~ 12:59 결과 =====
-Objective: 2706017
+Objective: 3327487
 Route for vehicle 0:
- Bundang_Townhall ->  경기 성남시 분당구 야탑동 ->  경기 성남시 분당구 서현동 ->  경기 수원시 영통구 원천동 -> Bundang_Townhall
-Distance of the route: 26409m
+ Depot_Beom_Gye -> Depot_Kintex
+Distance of the route: 0m
 
 Route for vehicle 1:
- Gimpo_Airport ->  서울 강서구 등촌동 ->  서울 양천구 목동 ->  인천 계양구 계산동 ->  경기 부천시 중동 ->  경기 부천시 오정동 -> Gimpo_Airport
-Distance of the route: 21103m
+ Depot_Gimpo_Airport -> Depot_Beom_Gye
+Distance of the route: 0m
 
 Route for vehicle 2:
- Beom_Gye ->  경기 안양시 만안구 안양동 ->  경기 안양시 동안구 평촌동 -> Beom_Gye
-Distance of the route: 10957m
+ Depot_Gwang_Myeong ->  경기 안양시 만안구 안양동 ->  Beom_Gye ->  경기 안양시 동안구 평촌동 ->  경기 성남시 분당구 야탑동 ->  Bundang_Townhall -> Depot_Bundang_Townhall
+Distance of the route: 32113m
 
 Route for vehicle 3:
- Kintex ->  서울 양천구 신정동 ->  서울 강서구 화곡동 ->  서울 구로구 구로동 ->  서울 양천구 목동 -> Kintex
-Distance of the route: 6648m
+ Depot_Bundang_Townhall ->  경기 성남시 분당구 서현동 ->  경기 수원시 영통구 원천동 ->  Gimpo_Airport ->  Gwang_Myeong -> Depot_Gwang_Myeong
+Distance of the route: 32359m
 
 Route for vehicle 4:
- Gwang_Myeong -> Gwang_Myeong
-Distance of the route: 0m
+ Depot_Kintex ->  Kintex ->  서울 양천구 목동 ->  서울 양천구 신정동 ->  서울 구로구 구로동 ->  서울 강서구 화곡동 ->  서울 양천구 목동 ->  서울 강서구 등촌동 ->  인천 계양구 계산동 ->  경기 부천시 중동 ->  경기 부천시 오정동 ->  Incheon_Airport -> Depot_Incheon_Airport
+Distance of the route: 27115m
 
 Route for vehicle 5:
- Incheon_Airport -> Incheon_Airport
+ Depot_Incheon_Airport -> Depot_Gimpo_Airport
 Distance of the route: 0m
 
-Maximum of the route distances: 26409m
+Maximum of the route distances: 32359m
 
 
 ===== 13:00 ~ 13:59 결과 =====
-Objective: 2687150
+Objective: 2412273
 Route for vehicle 0:
- Bundang_Townhall ->  경기 성남시 분당구 서현동 ->  경기 수원시 영통구 원천동 ->  경기 성남시 분당구 야탑동 -> Bundang_Townhall
-Distance of the route: 26223m
+ Depot_Incheon_Airport -> Depot_Kintex
+Distance of the route: 0m
 
 Route for vehicle 1:
- Gimpo_Airport ->  서울 강서구 등촌동 ->  서울 양천구 목동 ->  인천 계양구 계산동 ->  경기 부천시 중동 ->  경기 부천시 오정동 -> Gimpo_Airport
-Distance of the route: 20997m
+ Depot_Beom_Gye ->  경기 안양시 동안구 평촌동 ->  경기 수원시 영통구 원천동 ->  Incheon_Airport -> Depot_Incheon_Airport
+Distance of the route: 20157m
 
 Route for vehicle 2:
- Beom_Gye ->  경기 안양시 만안구 안양동 ->  경기 안양시 동안구 평촌동 -> Beom_Gye
-Distance of the route: 11071m
+ Depot_Gwang_Myeong ->  서울 강서구 화곡동 ->  서울 구로구 구로동 ->  서울 양천구 신정동 ->  Kintex ->  서울 양천구 목동 ->  Gwang_Myeong -> Depot_Gwang_Myeong
+Distance of the route: 11355m
 
 Route for vehicle 3:
- Kintex ->  서울 양천구 목동 ->  서울 구로구 구로동 ->  서울 강서구 화곡동 ->  서울 양천구 신정동 -> Kintex
-Distance of the route: 6559m
+ Depot_Bundang_Townhall ->  Bundang_Townhall ->  경기 성남시 분당구 야탑동 ->  경기 성남시 분당구 서현동 ->  경기 안양시 만안구 안양동 ->  Beom_Gye -> Depot_Beom_Gye
+Distance of the route: 23364m
 
 Route for vehicle 4:
- Gwang_Myeong -> Gwang_Myeong
-Distance of the route: 0m
+ Depot_Gimpo_Airport ->  서울 강서구 등촌동 ->  서울 양천구 목동 ->  인천 계양구 계산동 ->  경기 부천시 중동 ->  경기 부천시 오정동 ->  Gimpo_Airport -> Depot_Gimpo_Airport
+Distance of the route: 20997m
 
 Route for vehicle 5:
- Incheon_Airport -> Incheon_Airport
+ Depot_Kintex -> Depot_Bundang_Townhall
 Distance of the route: 0m
 
-Maximum of the route distances: 26223m
+Maximum of the route distances: 23364m
 
 
 ===== 14:00 ~ 14:59 결과 =====
-Objective: 2696690
+Objective: 3635068
 Route for vehicle 0:
- Bundang_Townhall ->  경기 성남시 분당구 야탑동 ->  경기 성남시 분당구 서현동 ->  경기 수원시 영통구 원천동 -> Bundang_Townhall
-Distance of the route: 26343m
+ Depot_Gwang_Myeong ->  Beom_Gye ->  경기 안양시 동안구 평촌동 ->  경기 수원시 영통구 원천동 ->  Bundang_Townhall -> Depot_Bundang_Townhall
+Distance of the route: 35292m
 
 Route for vehicle 1:
- Gimpo_Airport ->  서울 강서구 등촌동 ->  서울 양천구 목동 ->  인천 계양구 계산동 ->  경기 부천시 중동 ->  경기 부천시 오정동 -> Gimpo_Airport
-Distance of the route: 21245m
+ Depot_Gimpo_Airport ->  서울 양천구 목동 ->  서울 구로구 구로동 ->  서울 강서구 화곡동 ->  Gwang_Myeong ->  경기 안양시 만안구 안양동 -> Depot_Beom_Gye
+Distance of the route: 28584m
 
 Route for vehicle 2:
- Beom_Gye ->  경기 안양시 동안구 평촌동 ->  경기 안양시 만안구 안양동 -> Beom_Gye
-Distance of the route: 8348m
+ Depot_Beom_Gye -> Depot_Gwang_Myeong
+Distance of the route: 0m
 
 Route for vehicle 3:
- Kintex ->  서울 양천구 목동 ->  서울 구로구 구로동 ->  서울 강서구 화곡동 ->  서울 양천구 신정동 -> Kintex
-Distance of the route: 6454m
+ Depot_Incheon_Airport -> Depot_Incheon_Airport
+Distance of the route: 0m
 
 Route for vehicle 4:
- Gwang_Myeong -> Gwang_Myeong
-Distance of the route: 0m
+ Depot_Bundang_Townhall ->  경기 성남시 분당구 야탑동 ->  경기 성남시 분당구 서현동 ->  Incheon_Airport ->  인천 계양구 계산동 ->  경기 부천시 중동 ->  경기 부천시 오정동 ->  Gimpo_Airport ->  서울 양천구 신정동 ->  Kintex -> Depot_Kintex
+Distance of the route: 32356m
 
 Route for vehicle 5:
- Incheon_Airport -> Incheon_Airport
-Distance of the route: 0m
+ Depot_Kintex ->  서울 양천구 목동 ->  서울 강서구 등촌동 -> Depot_Gimpo_Airport
+Distance of the route: 9636m
 
-Maximum of the route distances: 26343m
+Maximum of the route distances: 35292m
 
 
 ===== 15:00 ~ 15:59 결과 =====
-Objective: 2743167
+Objective: 2742376
 Route for vehicle 0:
- Bundang_Townhall ->  경기 성남시 분당구 서현동 ->  경기 수원시 영통구 원천동 ->  경기 성남시 분당구 야탑동 -> Bundang_Townhall
+ Depot_Bundang_Townhall ->  경기 성남시 분당구 서현동 ->  경기 수원시 영통구 원천동 ->  경기 성남시 분당구 야탑동 ->  Bundang_Townhall -> Depot_Bundang_Townhall
 Distance of the route: 26776m
 
 Route for vehicle 1:
- Gimpo_Airport ->  서울 강서구 등촌동 ->  서울 양천구 목동 ->  인천 계양구 계산동 ->  경기 부천시 중동 ->  경기 부천시 오정동 -> Gimpo_Airport
-Distance of the route: 21147m
+ Depot_Kintex ->  서울 양천구 목동 ->  서울 양천구 목동 ->  인천 계양구 계산동 ->  경기 부천시 중동 ->  경기 부천시 오정동 ->  Incheon_Airport -> Depot_Incheon_Airport
+Distance of the route: 17606m
 
 Route for vehicle 2:
- Beom_Gye ->  경기 안양시 동안구 평촌동 ->  경기 안양시 만안구 안양동 -> Beom_Gye
+ Depot_Beom_Gye ->  경기 안양시 동안구 평촌동 ->  경기 안양시 만안구 안양동 ->  Beom_Gye -> Depot_Beom_Gye
 Distance of the route: 11219m
 
 Route for vehicle 3:
- Kintex ->  서울 양천구 목동 ->  서울 구로구 구로동 ->  서울 강서구 화곡동 ->  서울 양천구 신정동 -> Kintex
-Distance of the route: 6425m
+ Depot_Gimpo_Airport ->  서울 강서구 등촌동 ->  Gimpo_Airport -> Depot_Gimpo_Airport
+Distance of the route: 3981m
 
 Route for vehicle 4:
- Gwang_Myeong -> Gwang_Myeong
-Distance of the route: 0m
+ Depot_Gwang_Myeong ->  Gwang_Myeong ->  서울 강서구 화곡동 ->  서울 구로구 구로동 ->  서울 양천구 신정동 ->  Kintex -> Depot_Kintex
+Distance of the route: 5194m
 
 Route for vehicle 5:
- Incheon_Airport -> Incheon_Airport
+ Depot_Incheon_Airport -> Depot_Gwang_Myeong
 Distance of the route: 0m
 
 Maximum of the route distances: 26776m
 
 
 ===== 16:00 ~ 16:59 결과 =====
-Objective: 2729289
+Objective: 3167797
 Route for vehicle 0:
- Bundang_Townhall ->  경기 성남시 분당구 서현동 ->  경기 수원시 영통구 원천동 ->  경기 성남시 분당구 야탑동 -> Bundang_Townhall
-Distance of the route: 26607m
+ Depot_Gwang_Myeong ->  경기 부천시 중동 ->  경기 부천시 오정동 ->  인천 계양구 계산동 ->  Incheon_Airport -> Depot_Incheon_Airport
+Distance of the route: 17949m
 
 Route for vehicle 1:
- Gimpo_Airport ->  서울 강서구 등촌동 ->  서울 양천구 목동 ->  경기 부천시 중동 ->  인천 계양구 계산동 ->  경기 부천시 오정동 -> Gimpo_Airport
-Distance of the route: 24053m
+ Depot_Kintex -> Depot_Gimpo_Airport
+Distance of the route: 0m
 
 Route for vehicle 2:
- Beom_Gye ->  경기 안양시 만안구 안양동 ->  경기 안양시 동안구 평촌동 -> Beom_Gye
-Distance of the route: 11264m
+ Depot_Gimpo_Airport ->  서울 양천구 목동 ->  경기 안양시 만안구 안양동 ->  경기 안양시 동안구 평촌동 ->  Beom_Gye -> Depot_Beom_Gye
+Distance of the route: 29421m
 
 Route for vehicle 3:
- Kintex ->  서울 양천구 목동 ->  서울 구로구 구로동 ->  서울 강서구 화곡동 ->  서울 양천구 신정동 -> Kintex
-Distance of the route: 6665m
+ Depot_Beom_Gye ->  경기 수원시 영통구 원천동 ->  Bundang_Townhall -> Depot_Bundang_Townhall
+Distance of the route: 30624m
 
 Route for vehicle 4:
- Gwang_Myeong -> Gwang_Myeong
+ Depot_Incheon_Airport -> Depot_Kintex
 Distance of the route: 0m
 
 Route for vehicle 5:
- Incheon_Airport -> Incheon_Airport
-Distance of the route: 0m
+ Depot_Bundang_Townhall ->  경기 성남시 분당구 야탑동 ->  경기 성남시 분당구 서현동 ->  Gimpo_Airport ->  서울 강서구 등촌동 ->  서울 양천구 목동 ->  Kintex ->  서울 양천구 신정동 ->  서울 구로구 구로동 ->  서울 강서구 화곡동 ->  Gwang_Myeong -> Depot_Gwang_Myeong
+Distance of the route: 27403m
 
-Maximum of the route distances: 26607m
+Maximum of the route distances: 30624m
 
 
 ===== 17:00 ~ 17:59 결과 =====
-Objective: 2753811
+Objective: 3307056
 Route for vehicle 0:
- Bundang_Townhall ->  경기 성남시 분당구 야탑동 ->  경기 성남시 분당구 서현동 ->  경기 수원시 영통구 원천동 -> Bundang_Townhall
-Distance of the route: 26875m
+ Depot_Gwang_Myeong ->  경기 안양시 만안구 안양동 ->  경기 안양시 동안구 평촌동 ->  경기 성남시 분당구 야탑동 ->  Bundang_Townhall -> Depot_Bundang_Townhall
+Distance of the route: 31351m
 
 Route for vehicle 1:
- Gimpo_Airport ->  서울 강서구 등촌동 ->  서울 양천구 목동 ->  인천 계양구 계산동 ->  경기 부천시 중동 ->  경기 부천시 오정동 -> Gimpo_Airport
-Distance of the route: 21895m
+ Depot_Incheon_Airport -> Depot_Beom_Gye
+Distance of the route: 0m
 
 Route for vehicle 2:
- Beom_Gye ->  경기 안양시 만안구 안양동 ->  경기 안양시 동안구 평촌동 -> Beom_Gye
-Distance of the route: 11065m
+ Depot_Kintex -> Depot_Gimpo_Airport
+Distance of the route: 0m
 
 Route for vehicle 3:
- Kintex ->  서울 양천구 목동 ->  서울 구로구 구로동 ->  서울 강서구 화곡동 ->  서울 양천구 신정동 -> Kintex
-Distance of the route: 6476m
+ Depot_Beom_Gye ->  Beom_Gye ->  Gwang_Myeong -> Depot_Gwang_Myeong
+Distance of the route: 10955m
 
 Route for vehicle 4:
- Gwang_Myeong -> Gwang_Myeong
-Distance of the route: 0m
+ Depot_Gimpo_Airport ->  서울 강서구 등촌동 ->  서울 양천구 목동 ->  서울 구로구 구로동 ->  서울 강서구 화곡동 ->  서울 양천구 목동 ->  경기 부천시 중동 ->  경기 부천시 오정동 ->  인천 계양구 계산동 ->  Incheon_Airport -> Depot_Incheon_Airport
+Distance of the route: 28407m
 
 Route for vehicle 5:
- Incheon_Airport -> Incheon_Airport
-Distance of the route: 0m
+ Depot_Bundang_Townhall ->  경기 성남시 분당구 서현동 ->  경기 수원시 영통구 원천동 ->  Gimpo_Airport ->  서울 양천구 신정동 ->  Kintex -> Depot_Kintex
+Distance of the route: 32043m
 
-Maximum of the route distances: 26875m
+Maximum of the route distances: 32043m
 
 
 ===== 18:00 ~ 18:59 결과 =====
-Objective: 2764885
+Objective: 2197658
 Route for vehicle 0:
- Bundang_Townhall ->  경기 성남시 분당구 야탑동 ->  경기 성남시 분당구 서현동 ->  경기 수원시 영통구 원천동 -> Bundang_Townhall
-Distance of the route: 26982m
+ Depot_Gwang_Myeong ->  Gwang_Myeong ->  인천 계양구 계산동 ->  경기 부천시 중동 ->  경기 부천시 오정동 ->  Gimpo_Airport -> Depot_Gimpo_Airport
+Distance of the route: 15547m
 
 Route for vehicle 1:
- Gimpo_Airport ->  서울 강서구 등촌동 ->  서울 양천구 목동 ->  인천 계양구 계산동 ->  경기 부천시 중동 ->  경기 부천시 오정동 -> Gimpo_Airport
-Distance of the route: 21923m
+ Depot_Incheon_Airport -> Depot_Gwang_Myeong
+Distance of the route: 0m
 
 Route for vehicle 2:
- Beom_Gye ->  경기 안양시 동안구 평촌동 ->  경기 안양시 만안구 안양동 -> Beom_Gye
-Distance of the route: 11232m
+ Depot_Bundang_Townhall ->  경기 성남시 분당구 야탑동 ->  경기 성남시 분당구 서현동 ->  경기 수원시 영통구 원천동 ->  Incheon_Airport -> Depot_Incheon_Airport
+Distance of the route: 16279m
 
 Route for vehicle 3:
- Kintex ->  서울 양천구 목동 ->  서울 구로구 구로동 ->  서울 강서구 화곡동 ->  서울 양천구 신정동 -> Kintex
-Distance of the route: 6548m
+ Depot_Kintex ->  서울 양천구 신정동 ->  서울 구로구 구로동 ->  서울 강서구 화곡동 ->  Beom_Gye ->  경기 안양시 동안구 평촌동 -> Depot_Beom_Gye
+Distance of the route: 18434m
 
 Route for vehicle 4:
- Gwang_Myeong -> Gwang_Myeong
-Distance of the route: 0m
+ Depot_Gimpo_Airport ->  서울 강서구 등촌동 ->  서울 양천구 목동 ->  서울 양천구 목동 ->  Kintex -> Depot_Kintex
+Distance of the route: 12662m
 
 Route for vehicle 5:
- Incheon_Airport -> Incheon_Airport
-Distance of the route: 0m
+ Depot_Beom_Gye ->  경기 안양시 만안구 안양동 ->  Bundang_Townhall -> Depot_Bundang_Townhall
+Distance of the route: 21136m
 
-Maximum of the route distances: 26982m
+Maximum of the route distances: 21136m
 
 
 ===== 19:00 ~ 19:59 결과 =====
-Objective: 2815757
+Objective: 3208662
 Route for vehicle 0:
- Bundang_Townhall ->  경기 성남시 분당구 서현동 ->  경기 수원시 영통구 원천동 ->  경기 성남시 분당구 야탑동 -> Bundang_Townhall
-Distance of the route: 27488m
+ Depot_Incheon_Airport -> Depot_Beom_Gye
+Distance of the route: 0m
 
 Route for vehicle 1:
- Gimpo_Airport ->  서울 강서구 등촌동 ->  서울 양천구 목동 ->  인천 계양구 계산동 ->  경기 부천시 중동 ->  경기 부천시 오정동 -> Gimpo_Airport
-Distance of the route: 21751m
+ Depot_Beom_Gye ->  경기 안양시 동안구 평촌동 ->  경기 안양시 만안구 안양동 ->  Gwang_Myeong -> Depot_Gwang_Myeong
+Distance of the route: 19581m
 
 Route for vehicle 2:
- Beom_Gye ->  경기 안양시 동안구 평촌동 ->  경기 안양시 만안구 안양동 -> Beom_Gye
-Distance of the route: 11197m
+ Depot_Bundang_Townhall ->  Bundang_Townhall ->  경기 성남시 분당구 야탑동 ->  경기 성남시 분당구 서현동 ->  Gimpo_Airport ->  서울 강서구 등촌동 ->  서울 양천구 목동 ->  서울 강서구 화곡동 ->  서울 구로구 구로동 ->  서울 양천구 신정동 ->  Kintex -> Depot_Kintex
+Distance of the route: 25394m
 
 Route for vehicle 3:
- Kintex ->  서울 양천구 목동 ->  서울 구로구 구로동 ->  서울 강서구 화곡동 ->  서울 양천구 신정동 -> Kintex
-Distance of the route: 6521m
+ Depot_Kintex ->  서울 양천구 목동 ->  인천 계양구 계산동 ->  경기 부천시 중동 ->  경기 부천시 오정동 -> Depot_Gimpo_Airport
+Distance of the route: 22789m
 
 Route for vehicle 4:
- Gwang_Myeong -> Gwang_Myeong
+ Depot_Gimpo_Airport -> Depot_Bundang_Townhall
 Distance of the route: 0m
 
 Route for vehicle 5:
- Incheon_Airport -> Incheon_Airport
-Distance of the route: 0m
+ Depot_Gwang_Myeong ->  Beom_Gye ->  경기 수원시 영통구 원천동 ->  Incheon_Airport -> Depot_Incheon_Airport
+Distance of the route: 31098m
 
-Maximum of the route distances: 27488m
+Maximum of the route distances: 31098m
 
 
 ===== 20:00 ~ 20:59 결과 =====
-Objective: 2788499
+Objective: 4003240
 Route for vehicle 0:
- Bundang_Townhall ->  경기 성남시 분당구 서현동 ->  경기 수원시 영통구 원천동 ->  경기 성남시 분당구 야탑동 -> Bundang_Townhall
-Distance of the route: 27231m
+ Depot_Incheon_Airport -> Depot_Gimpo_Airport
+Distance of the route: 0m
 
 Route for vehicle 1:
- Gimpo_Airport ->  서울 강서구 등촌동 ->  서울 양천구 목동 ->  인천 계양구 계산동 ->  경기 부천시 중동 ->  경기 부천시 오정동 -> Gimpo_Airport
-Distance of the route: 21120m
+ Depot_Beom_Gye -> Depot_Kintex
+Distance of the route: 0m
 
 Route for vehicle 2:
- Beom_Gye ->  경기 안양시 만안구 안양동 ->  경기 안양시 동안구 평촌동 -> Beom_Gye
-Distance of the route: 11121m
+ Depot_Gwang_Myeong -> Depot_Bundang_Townhall
+Distance of the route: 0m
 
 Route for vehicle 3:
- Kintex ->  서울 양천구 신정동 ->  서울 구로구 구로동 ->  서울 강서구 화곡동 ->  서울 양천구 목동 -> Kintex
-Distance of the route: 5927m
+ Depot_Bundang_Townhall ->  Bundang_Townhall ->  경기 성남시 분당구 야탑동 ->  경기 성남시 분당구 서현동 ->  Gimpo_Airport ->  경기 부천시 오정동 ->  인천 계양구 계산동 ->  경기 부천시 중동 -> Depot_Gwang_Myeong
+Distance of the route: 35206m
 
 Route for vehicle 4:
- Gwang_Myeong -> Gwang_Myeong
-Distance of the route: 0m
+ Depot_Gimpo_Airport ->  서울 양천구 목동 ->  Gwang_Myeong ->  경기 안양시 동안구 평촌동 ->  경기 수원시 영통구 원천동 ->  Incheon_Airport -> Depot_Incheon_Airport
+Distance of the route: 38954m
 
 Route for vehicle 5:
- Incheon_Airport -> Incheon_Airport
-Distance of the route: 0m
+ Depot_Kintex ->  Kintex ->  서울 강서구 등촌동 ->  서울 양천구 목동 ->  서울 양천구 신정동 ->  서울 구로구 구로동 ->  서울 강서구 화곡동 ->  경기 안양시 만안구 안양동 ->  Beom_Gye -> Depot_Beom_Gye
+Distance of the route: 33680m
 
-Maximum of the route distances: 27231m
+Maximum of the route distances: 38954m
 
 
 ===== 21:00 ~ 21:59 결과 =====
-Objective: 2758366
+Objective: 2646226
 Route for vehicle 0:
- Bundang_Townhall ->  경기 성남시 분당구 야탑동 ->  경기 성남시 분당구 서현동 ->  경기 수원시 영통구 원천동 -> Bundang_Townhall
-Distance of the route: 26938m
-
-Route for vehicle 1:
- Gimpo_Airport ->  서울 강서구 등촌동 ->  서울 양천구 목동 ->  경기 부천시 중동 ->  인천 계양구 계산동 ->  경기 부천시 오정동 -> Gimpo_Airport
-Distance of the route: 21950m
-
-Route for vehicle 2:
- Beom_Gye ->  경기 안양시 동안구 평촌동 ->  경기 안양시 만안구 안양동 -> Beom_Gye
+ Depot_Beom_Gye ->  경기 안양시 동안구 평촌동 ->  경기 안양시 만안구 안양동 ->  Beom_Gye -> Depot_Beom_Gye
 Distance of the route: 9572m
 
+Route for vehicle 1:
+ Depot_Incheon_Airport -> Depot_Bundang_Townhall
+Distance of the route: 0m
+
+Route for vehicle 2:
+ Depot_Gimpo_Airport ->  경기 부천시 오정동 ->  인천 계양구 계산동 ->  경기 부천시 중동 ->  서울 양천구 목동 ->  서울 양천구 신정동 ->  Kintex -> Depot_Kintex
+Distance of the route: 21807m
+
 Route for vehicle 3:
- Kintex ->  서울 양천구 신정동 ->  서울 구로구 구로동 ->  서울 강서구 화곡동 ->  서울 양천구 목동 -> Kintex
-Distance of the route: 6106m
+ Depot_Bundang_Townhall ->  Bundang_Townhall ->  경기 성남시 분당구 야탑동 ->  경기 성남시 분당구 서현동 ->  경기 수원시 영통구 원천동 ->  Gimpo_Airport -> Depot_Gimpo_Airport
+Distance of the route: 25768m
 
 Route for vehicle 4:
- Gwang_Myeong -> Gwang_Myeong
-Distance of the route: 0m
+ Depot_Gwang_Myeong ->  Gwang_Myeong ->  서울 강서구 화곡동 ->  서울 구로구 구로동 ->  서울 양천구 목동 ->  서울 강서구 등촌동 ->  Incheon_Airport -> Depot_Incheon_Airport
+Distance of the route: 12279m
 
 Route for vehicle 5:
- Incheon_Airport -> Incheon_Airport
+ Depot_Kintex -> Depot_Gwang_Myeong
 Distance of the route: 0m
 
-Maximum of the route distances: 26938m
+Maximum of the route distances: 25768m
 
 
 ===== 22:00 ~ 22:59 결과 =====
-Objective: 2824189
+Objective: 3361787
 Route for vehicle 0:
- Bundang_Townhall ->  경기 성남시 분당구 서현동 ->  경기 수원시 영통구 원천동 ->  경기 성남시 분당구 야탑동 -> Bundang_Townhall
-Distance of the route: 27576m
+ Depot_Gimpo_Airport ->  서울 강서구 등촌동 ->  서울 양천구 목동 ->  서울 구로구 구로동 ->  서울 강서구 화곡동 ->  Gwang_Myeong ->  경기 안양시 만안구 안양동 ->  경기 안양시 동안구 평촌동 ->  Beom_Gye -> Depot_Beom_Gye
+Distance of the route: 32691m
 
 Route for vehicle 1:
- Gimpo_Airport ->  서울 강서구 등촌동 ->  서울 양천구 목동 ->  경기 부천시 중동 ->  인천 계양구 계산동 ->  경기 부천시 오정동 -> Gimpo_Airport
-Distance of the route: 22647m
+ Depot_Incheon_Airport ->  Incheon_Airport -> Depot_Incheon_Airport
+Distance of the route: 0m
 
 Route for vehicle 2:
- Beom_Gye ->  경기 안양시 동안구 평촌동 ->  경기 안양시 만안구 안양동 -> Beom_Gye
-Distance of the route: 10076m
+ Depot_Beom_Gye -> Depot_Gwang_Myeong
+Distance of the route: 0m
 
 Route for vehicle 3:
- Kintex ->  서울 양천구 신정동 ->  서울 구로구 구로동 ->  서울 강서구 화곡동 ->  서울 양천구 목동 -> Kintex
-Distance of the route: 6290m
+ Depot_Gwang_Myeong -> Depot_Bundang_Townhall
+Distance of the route: 0m
 
 Route for vehicle 4:
- Gwang_Myeong -> Gwang_Myeong
-Distance of the route: 0m
+ Depot_Bundang_Townhall ->  Bundang_Townhall ->  경기 성남시 분당구 야탑동 ->  경기 성남시 분당구 서현동 ->  경기 수원시 영통구 원천동 ->  Gimpo_Airport ->  서울 양천구 신정동 ->  Kintex -> Depot_Kintex
+Distance of the route: 32729m
 
 Route for vehicle 5:
- Incheon_Airport -> Incheon_Airport
-Distance of the route: 0m
+ Depot_Kintex ->  서울 양천구 목동 ->  경기 부천시 중동 ->  인천 계양구 계산동 ->  경기 부천시 오정동 -> Depot_Gimpo_Airport
+Distance of the route: 23467m
 
-Maximum of the route distances: 27576m
+Maximum of the route distances: 32729m
 
 
 ===== 23:00 ~ 23:59 결과 =====
-Objective: 2795748
+Objective: 2804011
 Route for vehicle 0:
- Bundang_Townhall ->  경기 성남시 분당구 야탑동 ->  경기 수원시 영통구 원천동 ->  경기 성남시 분당구 서현동 -> Bundang_Townhall
+ Depot_Bundang_Townhall ->  경기 성남시 분당구 야탑동 ->  경기 수원시 영통구 원천동 ->  경기 성남시 분당구 서현동 ->  Bundang_Townhall -> Depot_Bundang_Townhall
 Distance of the route: 27295m
 
 Route for vehicle 1:
- Gimpo_Airport ->  서울 강서구 등촌동 ->  서울 양천구 목동 ->  경기 부천시 중동 ->  인천 계양구 계산동 ->  경기 부천시 오정동 -> Gimpo_Airport
-Distance of the route: 22506m
+ Depot_Incheon_Airport -> Depot_Gwang_Myeong
+Distance of the route: 0m
 
 Route for vehicle 2:
- Beom_Gye ->  경기 안양시 동안구 평촌동 ->  경기 안양시 만안구 안양동 -> Beom_Gye
-Distance of the route: 10145m
+ Depot_Gwang_Myeong -> Depot_Gimpo_Airport
+Distance of the route: 0m
 
 Route for vehicle 3:
- Kintex ->  서울 양천구 신정동 ->  서울 구로구 구로동 ->  서울 강서구 화곡동 ->  서울 양천구 목동 -> Kintex
-Distance of the route: 6302m
+ Depot_Gimpo_Airport -> Depot_Beom_Gye
+Distance of the route: 0m
 
 Route for vehicle 4:
- Gwang_Myeong -> Gwang_Myeong
-Distance of the route: 0m
+ Depot_Kintex ->  서울 양천구 목동 ->  서울 양천구 목동 ->  서울 강서구 등촌동 ->  Gimpo_Airport ->  경기 부천시 오정동 ->  경기 부천시 중동 ->  인천 계양구 계산동 ->  Incheon_Airport -> Depot_Incheon_Airport
+Distance of the route: 23495m
 
 Route for vehicle 5:
- Incheon_Airport -> Incheon_Airport
-Distance of the route: 0m
+ Depot_Beom_Gye ->  Beom_Gye ->  경기 안양시 동안구 평촌동 ->  경기 안양시 만안구 안양동 ->  Gwang_Myeong ->  서울 강서구 화곡동 ->  서울 구로구 구로동 ->  서울 양천구 신정동 ->  Kintex -> Depot_Kintex
+Distance of the route: 23721m
 
 Maximum of the route distances: 27295m
