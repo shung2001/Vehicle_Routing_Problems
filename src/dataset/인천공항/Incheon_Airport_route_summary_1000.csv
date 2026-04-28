@@ -1,0 +1,25 @@
+﻿time,vehicle_id,start_node,end_node,route_nodes,route_names,real_distance,cost,total_real_distance,objectives
+00:00 ~ 00:59,0,25,25,25 -> 19 -> 25,Depot_Incheon_Airport -> Incheon_Airport -> Depot_Incheon_Airport,0,0,0,24000
+01:00 ~ 01:59,0,25,25,25 -> 19 -> 25,Depot_Incheon_Airport -> Incheon_Airport -> Depot_Incheon_Airport,0,0,0,24000
+02:00 ~ 02:59,0,25,25,25 -> 19 -> 25,Depot_Incheon_Airport -> Incheon_Airport -> Depot_Incheon_Airport,0,0,0,24000
+03:00 ~ 03:59,0,25,25,25 -> 19 -> 25,Depot_Incheon_Airport -> Incheon_Airport -> Depot_Incheon_Airport,0,0,0,24000
+04:00 ~ 04:59,0,25,25,25 -> 19 -> 25,Depot_Incheon_Airport -> Incheon_Airport -> Depot_Incheon_Airport,0,0,0,24000
+05:00 ~ 05:59,0,25,25,25 -> 19 -> 25,Depot_Incheon_Airport -> Incheon_Airport -> Depot_Incheon_Airport,0,0,0,24000
+06:00 ~ 06:59,0,25,25,25 -> 19 -> 25,Depot_Incheon_Airport -> Incheon_Airport -> Depot_Incheon_Airport,0,0,0,24000
+07:00 ~ 07:59,0,25,25,25 -> 19 -> 25,Depot_Incheon_Airport -> Incheon_Airport -> Depot_Incheon_Airport,0,0,0,24000
+08:00 ~ 08:59,0,25,25,25 -> 19 -> 25,Depot_Incheon_Airport -> Incheon_Airport -> Depot_Incheon_Airport,0,0,0,24000
+09:00 ~ 09:59,0,25,25,25 -> 19 -> 25,Depot_Incheon_Airport -> Incheon_Airport -> Depot_Incheon_Airport,0,0,0,24000
+10:00 ~ 10:59,0,25,25,25 -> 19 -> 25,Depot_Incheon_Airport -> Incheon_Airport -> Depot_Incheon_Airport,0,0,0,24000
+11:00 ~ 11:59,0,25,25,25 -> 19 -> 25,Depot_Incheon_Airport -> Incheon_Airport -> Depot_Incheon_Airport,0,0,0,24000
+12:00 ~ 12:59,0,25,25,25 -> 19 -> 25,Depot_Incheon_Airport -> Incheon_Airport -> Depot_Incheon_Airport,0,0,0,24000
+13:00 ~ 13:59,0,25,25,25 -> 19 -> 25,Depot_Incheon_Airport -> Incheon_Airport -> Depot_Incheon_Airport,0,0,0,24000
+14:00 ~ 14:59,0,25,25,25 -> 19 -> 25,Depot_Incheon_Airport -> Incheon_Airport -> Depot_Incheon_Airport,0,0,0,24000
+15:00 ~ 15:59,0,25,25,25 -> 19 -> 25,Depot_Incheon_Airport -> Incheon_Airport -> Depot_Incheon_Airport,0,0,0,24000
+16:00 ~ 16:59,0,25,25,25 -> 19 -> 25,Depot_Incheon_Airport -> Incheon_Airport -> Depot_Incheon_Airport,0,0,0,24000
+17:00 ~ 17:59,0,25,25,25 -> 19 -> 25,Depot_Incheon_Airport -> Incheon_Airport -> Depot_Incheon_Airport,0,0,0,24000
+18:00 ~ 18:59,0,25,25,25 -> 19 -> 25,Depot_Incheon_Airport -> Incheon_Airport -> Depot_Incheon_Airport,0,0,0,24000
+19:00 ~ 19:59,0,25,25,25 -> 19 -> 25,Depot_Incheon_Airport -> Incheon_Airport -> Depot_Incheon_Airport,0,0,0,24000
+20:00 ~ 20:59,0,25,25,25 -> 19 -> 25,Depot_Incheon_Airport -> Incheon_Airport -> Depot_Incheon_Airport,0,0,0,24000
+21:00 ~ 21:59,0,25,25,25 -> 19 -> 25,Depot_Incheon_Airport -> Incheon_Airport -> Depot_Incheon_Airport,0,0,0,24000
+22:00 ~ 22:59,0,25,25,25 -> 19 -> 25,Depot_Incheon_Airport -> Incheon_Airport -> Depot_Incheon_Airport,0,0,0,24000
+23:00 ~ 23:59,0,25,25,25 -> 19 -> 25,Depot_Incheon_Airport -> Incheon_Airport -> Depot_Incheon_Airport,0,0,0,24000
