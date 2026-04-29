@@ -1,4 +1,15 @@
 VRP(Vehicle Routing Problem)
-전반적인 코드 및 자료를 이곳에 저장할 예정
 
-본 프로그램의 목적은 공부의 목적으로 올리는 프로그램이자, 교수님에게 나의 진행과정을 공유하기 위해서 만든 repository이다
+진행 단계 file(src): beginners.ipynb(단계별 수정 작업 내용들이 모두 담겨져 있습니다.)
+최종 file: final.py(beginners.ipynb의 최종 작업을 final.py로 저장하였습니다)
+
+추출된 결과물: src/dataset
+-> 각 HUB에 대해 그리고 penalty 별 결과물이 담겨져 있습니다.
+
+## Requirements
+
+- Python >= 3.13
+- numpy >= 1.24
+- pandas >= 2.0
+- matplotlib >= 3.7
+- ortools >= 9.8
