@@ -15,6 +15,18 @@ from ortools.constraint_solver import pywrapcp
 
 
 
+CONFIG = {
+    "num_vehicles": 1,
+    "start_depot": "Depot_Kintex",
+    "end_depot": "Depot_Kintex",
+    "penalty": 6000,
+    "output_folder": "Kintex",
+    "output_prefix": "Depot_Kintex",
+    "designated_time": "08:00 ~ 08:59",
+    "make_animation": True,
+
+}
+
 # ==================================================
 # 1. 기본 데이터 모델 생성
 # ==================================================
@@ -39,17 +51,18 @@ def create_data_model():
     distance_vertiport["id"] = range(len(distance_vertiport))
 
     # 핵심 허브, 허브 역시 depot 뿐만 아니라 일반 node로 사용하기 위해 중복 value를 추가. But, 구분하기 위해 앞에 Depot을 추가
-    distance_vertiport.loc[20, "NAME"] = "Depot_Bundang_Townhall"
-    distance_vertiport.loc[21, "NAME"] = "Depot_Gimpo_Airport"
-    distance_vertiport.loc[22, "NAME"] = "Depot_Beom_Gye"
-    distance_vertiport.loc[23, "NAME"] = "Depot_Kintex"
-    distance_vertiport.loc[24, "NAME"] = "Depot_Gwang_Myeong"
-    distance_vertiport.loc[25, "NAME"] = "Depot_Incheon_Airport"
+    distance_vertiport.loc[14, "NAME"] = "Depot_Bundang_Townhall"
+    distance_vertiport.loc[15, "NAME"] = "Depot_Gimpo_Airport"
+    distance_vertiport.loc[16, "NAME"] = "Depot_Beom_Gye"
+    distance_vertiport.loc[17, "NAME"] = "Depot_Kintex"
+    distance_vertiport.loc[18, "NAME"] = "Depot_Gwang_Myeong"
+    distance_vertiport.loc[19, "NAME"] = "Depot_Incheon_Airport"
 
     lats = distance_vertiport["y_latitude"].values
     lons = distance_vertiport["x_longtitude"].values
 
     node_to_name = dict(zip(distance_vertiport["id"], distance_vertiport["NAME"]))
+    name_to_node = dict(zip(distance_vertiport["NAME"], distance_vertiport["id"]))
 
     n = len(distance_vertiport)
     distance_matrix = np.zeros((n, n), dtype=np.int64)
@@ -63,15 +76,12 @@ def create_data_model():
 
     data = {}
     data["distance_matrix"] = distance_matrix.tolist()
-    data["num_vehicles"] = 1
+    data["num_vehicles"] = CONFIG["num_vehicles"]
     data["node_to_name"] = node_to_name
-    
-    start_hub_nodes = [25]  # 기존에는 hub_nodes를 전부 대입하였으나, 전부 대입을 하게 된다면 분석에서 누락되는 node가 발생해 제외하였다. 따라서, 특정 node만을 선정함
-    end_hub_nodes = [25] # 마찬가지로 도착지점은 1개로 축소됨. 도착지점은 20~25를 임의로 정할 수 있으나, 우선 버스의 차고지 개념을 도입해 시작점과 도착점을 같게 함.
-    
+    data["name_to_node"] = name_to_node
 
-    data["starts"] = start_hub_nodes
-    data["ends"] = random.sample(end_hub_nodes, k=data["num_vehicles"]) 
+    data["starts"] = [name_to_node[CONFIG["start_depot"]]]
+    data["ends"] = [name_to_node[CONFIG["end_depot"]]]
 
     return data
 
@@ -216,10 +226,10 @@ def make_cost_callback(data, manager, time_demand, current_time):
         하지만, 거리가 멀더라도 공항 특성상 수요가 분명 높은 지점이므로 의도적으로 cost를 낮추었다."""
         alpha = 2.0
 
-        if to_node == 25: # 인천공항
+        if to_node == 19: # 인천공항
             cost = distance * 0.1 / (1 + alpha * demand_weight) # distance에 0.1을 곱하고 분모에 alpha를 추가했다. 하지만, 아직 정확한 수치를 대입하지 못하였으므로 조금 더 분석을 진행해서 alpha와 상수의 적정값을 찾을 예정
 
-        elif to_node == 21: # 김포공항, 비교적 공항에 더 가까워서
+        elif to_node == 15: # 김포공항, 비교적 공항에 더 가까워서
             cost = distance * 0.3 / (1 + alpha * demand_weight)
 
         else:
@@ -401,13 +411,6 @@ def animate_routes(data, manager, routing, solution, current_time):
     18: (5, 1),
     19: (-5, -1),
 
-    # 추가 노드 (20~25)
-    20: (2, -3),   # 좌상단 확장
-    21: (-4, 4),    # 우상단 확장
-    22: (3, -4),  # 좌하단 확장
-    23: (0, 4),   # 우하단 확장
-    24: (5, 1),   # 중앙 하단 확장
-    25: (-5, -1),    # 중앙 상단 확장
 }
     
 
@@ -590,7 +593,7 @@ def run_vrp_for_time(current_time, time_demand, make_animation=False, penalty = 
 
     optional_nodes = []
 
-    customer_nodes = list(range(0, 26))  # 일반 수요 노드만
+    customer_nodes = list(range(len(data["distance_matrix"])))  # 일반 수요 노드만
 
     for node in customer_nodes:
         routing.AddDisjunction(
@@ -675,7 +678,7 @@ def main():
     all_summary_records = []
     all_step_records = []
 
-    penalty = 3500
+    penalty = CONFIG["penalty"]
 
     for current_time in time_demand.keys():
         result = run_vrp_for_time(
@@ -685,7 +688,7 @@ def main():
             penalty=penalty
         )
 
-        if result is None:
+        if result is None or result["solution"] is None:
             continue
 
         summary_records, step_records = extract_route_records(
@@ -699,38 +702,35 @@ def main():
         all_summary_records.extend(summary_records)
         all_step_records.extend(step_records)
 
-
     summary_df = pd.DataFrame(all_summary_records)
     steps_df = pd.DataFrame(all_step_records)
 
-    output_dir = BASE_DIR / "dataset" / "인천공항"
+    output_dir = BASE_DIR / "dataset" / CONFIG["output_folder"]
     output_dir.mkdir(parents=True, exist_ok=True)
 
+    output_prefix = CONFIG["output_prefix"]
+
     summary_df.to_csv(
-        output_dir / f"Incheon_Airport_route_summary_{penalty}.csv",
+        output_dir / f"{output_prefix}_route_summary_{penalty}.csv",
         index=False,
         encoding="utf-8-sig"
     )
 
     steps_df.to_csv(
-        output_dir / f"Incheon_Airport_route_steps_{penalty}.csv",
+        output_dir / f"{output_prefix}_route_steps_{penalty}.csv",
         index=False,
         encoding="utf-8-sig"
     )
 
-    designated_time = "08:00 ~ 08:59"
-
     run_vrp_for_time(
-    designated_time,
-    time_demand,
-    make_animation=True,
-    penalty=penalty
+        CONFIG["designated_time"],
+        time_demand,
+        make_animation=CONFIG["make_animation"],
+        penalty=penalty
     )
 
-
-    
     print("CSV 저장 완료")
-    print(f"{designated_time} 시간대의 에니메이션 저장완료")
+    print(f'{CONFIG["designated_time"]} 시간대의 애니메이션 저장 완료')
 
 
 
