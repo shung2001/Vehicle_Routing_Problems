@@ -1,4 +1,4 @@
-# Conflict_based_search
+VRP(Vehicle Routing Problem)
 전반적인 코드 및 자료를 이곳에 저장할 예정
 
 본 프로그램의 목적은 공부의 목적으로 올리는 프로그램이자, 교수님에게 나의 진행과정을 공유하기 위해서 만든 repository이다
