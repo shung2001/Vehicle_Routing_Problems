@@ -16,12 +16,12 @@ from ortools.constraint_solver import pywrapcp
 
 
 CONFIG = {
-    "num_vehicles": 1,
-    "start_depot": "Depot_Kintex",
-    "end_depot": "Depot_Kintex",
+    "num_vehicles": 2,
+    "start_depot": ["Depot_Incheon_Airport", "Depot_Incheon_Airport"],
+    "end_depot": ["Depot_Incheon_Airport","Depot_Incheon_Airport"],
     "penalty": 6000,
-    "output_folder": "Kintex",
-    "output_prefix": "Depot_Kintex",
+    "output_folder": "인천공항",
+    "output_prefix": "Depot_Incheon_Airport",
     "designated_time": "08:00 ~ 08:59",
     "make_animation": True,
 
@@ -80,8 +80,13 @@ def create_data_model():
     data["node_to_name"] = node_to_name
     data["name_to_node"] = name_to_node
 
-    data["starts"] = [name_to_node[CONFIG["start_depot"]]]
-    data["ends"] = [name_to_node[CONFIG["end_depot"]]]
+    data["starts"] = [
+    name_to_node[name] for name in CONFIG["start_depot"]
+]
+
+    data["ends"] = [
+        name_to_node[name] for name in CONFIG["end_depot"]
+    ]
 
     return data
 
@@ -708,16 +713,17 @@ def main():
     output_dir = BASE_DIR / "dataset" / CONFIG["output_folder"]
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    output_prefix = CONFIG["output_prefix"]
+    output_prefix = CONFIG["num_vehicles"]
+    output_prefix_1 = CONFIG["output_prefix"]
 
     summary_df.to_csv(
-        output_dir / f"{output_prefix}_route_summary_{penalty}.csv",
+        output_dir / f"{output_prefix}대_{output_prefix_1}_route_summary_{penalty}.csv",
         index=False,
         encoding="utf-8-sig"
     )
 
     steps_df.to_csv(
-        output_dir / f"{output_prefix}_route_steps_{penalty}.csv",
+        output_dir / f"{output_prefix}대_{output_prefix_1}_route_steps_{penalty}.csv",
         index=False,
         encoding="utf-8-sig"
     )
