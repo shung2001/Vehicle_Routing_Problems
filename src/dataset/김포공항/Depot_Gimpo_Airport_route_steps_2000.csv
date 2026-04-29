@@ -1,0 +1,25 @@
+﻿time,vehicle_id,step,from_node,from_name,to_node,to_name,real_distance,cost,efficiency,total_real_distance,objectives
+00:00 ~ 00:59,0,0,15,Depot_Gimpo_Airport,15,Depot_Gimpo_Airport,0,0,0,0,38000
+01:00 ~ 01:59,0,0,15,Depot_Gimpo_Airport,15,Depot_Gimpo_Airport,0,0,0,0,38000
+02:00 ~ 02:59,0,0,15,Depot_Gimpo_Airport,15,Depot_Gimpo_Airport,0,0,0,0,38000
+03:00 ~ 03:59,0,0,15,Depot_Gimpo_Airport,15,Depot_Gimpo_Airport,0,0,0,0,38000
+04:00 ~ 04:59,0,0,15,Depot_Gimpo_Airport,15,Depot_Gimpo_Airport,0,0,0,0,38000
+05:00 ~ 05:59,0,0,15,Depot_Gimpo_Airport,15,Depot_Gimpo_Airport,0,0,0,0,38000
+06:00 ~ 06:59,0,0,15,Depot_Gimpo_Airport,15,Depot_Gimpo_Airport,0,0,0,0,38000
+07:00 ~ 07:59,0,0,15,Depot_Gimpo_Airport,15,Depot_Gimpo_Airport,0,0,0,0,38000
+08:00 ~ 08:59,0,0,15,Depot_Gimpo_Airport,15,Depot_Gimpo_Airport,0,0,0,0,38000
+09:00 ~ 09:59,0,0,15,Depot_Gimpo_Airport,15,Depot_Gimpo_Airport,0,0,0,0,38000
+10:00 ~ 10:59,0,0,15,Depot_Gimpo_Airport,15,Depot_Gimpo_Airport,0,0,0,0,38000
+11:00 ~ 11:59,0,0,15,Depot_Gimpo_Airport,15,Depot_Gimpo_Airport,0,0,0,0,38000
+12:00 ~ 12:59,0,0,15,Depot_Gimpo_Airport,15,Depot_Gimpo_Airport,0,0,0,0,38000
+13:00 ~ 13:59,0,0,15,Depot_Gimpo_Airport,15,Depot_Gimpo_Airport,0,0,0,0,38000
+14:00 ~ 14:59,0,0,15,Depot_Gimpo_Airport,15,Depot_Gimpo_Airport,0,0,0,0,38000
+15:00 ~ 15:59,0,0,15,Depot_Gimpo_Airport,15,Depot_Gimpo_Airport,0,0,0,0,38000
+16:00 ~ 16:59,0,0,15,Depot_Gimpo_Airport,15,Depot_Gimpo_Airport,0,0,0,0,38000
+17:00 ~ 17:59,0,0,15,Depot_Gimpo_Airport,15,Depot_Gimpo_Airport,0,0,0,0,38000
+18:00 ~ 18:59,0,0,15,Depot_Gimpo_Airport,15,Depot_Gimpo_Airport,0,0,0,0,38000
+19:00 ~ 19:59,0,0,15,Depot_Gimpo_Airport,15,Depot_Gimpo_Airport,0,0,0,0,38000
+20:00 ~ 20:59,0,0,15,Depot_Gimpo_Airport,15,Depot_Gimpo_Airport,0,0,0,0,38000
+21:00 ~ 21:59,0,0,15,Depot_Gimpo_Airport,15,Depot_Gimpo_Airport,0,0,0,0,38000
+22:00 ~ 22:59,0,0,15,Depot_Gimpo_Airport,15,Depot_Gimpo_Airport,0,0,0,0,38000
+23:00 ~ 23:59,0,0,15,Depot_Gimpo_Airport,15,Depot_Gimpo_Airport,0,0,0,0,38000

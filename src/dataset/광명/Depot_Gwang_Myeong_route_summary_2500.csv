@@ -1,25 +1,25 @@
-﻿time,vehicle_id,start_node,end_node,route_nodes,route_names,real_distance,cost,objectives,total_real_distance
-00:00 ~ 00:59,0,18,18,18 -> 18,Depot_Gwang_Myeong -> Depot_Gwang_Myeong,0,0,47500,0
-01:00 ~ 01:59,0,18,18,18 -> 15 -> 2 -> 9 -> 17 -> 6 -> 7 -> 1 -> 18,Depot_Gwang_Myeong -> Depot_Gimpo_Airport -> 서울 양천구 목동 -> 서울 양천구 목동_1 -> Depot_Kintex -> 서울 양천구 신정동 -> 서울 구로구 구로동 -> 서울 강서구 화곡동 -> Depot_Gwang_Myeong,24637,17066,47066,24637
-02:00 ~ 02:59,0,18,18,18 -> 15 -> 2 -> 9 -> 17 -> 6 -> 7 -> 1 -> 18,Depot_Gwang_Myeong -> Depot_Gimpo_Airport -> 서울 양천구 목동 -> 서울 양천구 목동_1 -> Depot_Kintex -> 서울 양천구 신정동 -> 서울 구로구 구로동 -> 서울 강서구 화곡동 -> Depot_Gwang_Myeong,24637,17077,47077,24637
-03:00 ~ 03:59,0,18,18,18 -> 15 -> 2 -> 9 -> 17 -> 6 -> 7 -> 1 -> 18,Depot_Gwang_Myeong -> Depot_Gimpo_Airport -> 서울 양천구 목동 -> 서울 양천구 목동_1 -> Depot_Kintex -> 서울 양천구 신정동 -> 서울 구로구 구로동 -> 서울 강서구 화곡동 -> Depot_Gwang_Myeong,24637,16968,46968,24637
-04:00 ~ 04:59,0,18,18,18 -> 15 -> 2 -> 9 -> 17 -> 6 -> 7 -> 1 -> 18,Depot_Gwang_Myeong -> Depot_Gimpo_Airport -> 서울 양천구 목동 -> 서울 양천구 목동_1 -> Depot_Kintex -> 서울 양천구 신정동 -> 서울 구로구 구로동 -> 서울 강서구 화곡동 -> Depot_Gwang_Myeong,24637,16596,46596,24637
-05:00 ~ 05:59,0,18,18,18 -> 15 -> 2 -> 9 -> 17 -> 6 -> 7 -> 1 -> 18,Depot_Gwang_Myeong -> Depot_Gimpo_Airport -> 서울 양천구 목동 -> 서울 양천구 목동_1 -> Depot_Kintex -> 서울 양천구 신정동 -> 서울 구로구 구로동 -> 서울 강서구 화곡동 -> Depot_Gwang_Myeong,24637,16625,46625,24637
-06:00 ~ 06:59,0,18,18,18 -> 15 -> 2 -> 9 -> 17 -> 6 -> 7 -> 1 -> 18,Depot_Gwang_Myeong -> Depot_Gimpo_Airport -> 서울 양천구 목동 -> 서울 양천구 목동_1 -> Depot_Kintex -> 서울 양천구 신정동 -> 서울 구로구 구로동 -> 서울 강서구 화곡동 -> Depot_Gwang_Myeong,24637,17273,47273,24637
-07:00 ~ 07:59,0,18,18,18 -> 18,Depot_Gwang_Myeong -> Depot_Gwang_Myeong,0,0,47500,0
-08:00 ~ 08:59,0,18,18,18 -> 18,Depot_Gwang_Myeong -> Depot_Gwang_Myeong,0,0,47500,0
-09:00 ~ 09:59,0,18,18,18 -> 15 -> 2 -> 9 -> 17 -> 6 -> 7 -> 1 -> 18,Depot_Gwang_Myeong -> Depot_Gimpo_Airport -> 서울 양천구 목동 -> 서울 양천구 목동_1 -> Depot_Kintex -> 서울 양천구 신정동 -> 서울 구로구 구로동 -> 서울 강서구 화곡동 -> Depot_Gwang_Myeong,24637,17293,47293,24637
-10:00 ~ 10:59,0,18,18,18 -> 18,Depot_Gwang_Myeong -> Depot_Gwang_Myeong,0,0,47500,0
-11:00 ~ 11:59,0,18,18,18 -> 18,Depot_Gwang_Myeong -> Depot_Gwang_Myeong,0,0,47500,0
-12:00 ~ 12:59,0,18,18,18 -> 18,Depot_Gwang_Myeong -> Depot_Gwang_Myeong,0,0,47500,0
-13:00 ~ 13:59,0,18,18,18 -> 15 -> 2 -> 9 -> 17 -> 6 -> 7 -> 1 -> 18,Depot_Gwang_Myeong -> Depot_Gimpo_Airport -> 서울 양천구 목동 -> 서울 양천구 목동_1 -> Depot_Kintex -> 서울 양천구 신정동 -> 서울 구로구 구로동 -> 서울 강서구 화곡동 -> Depot_Gwang_Myeong,24637,17306,47306,24637
-14:00 ~ 14:59,0,18,18,18 -> 18,Depot_Gwang_Myeong -> Depot_Gwang_Myeong,0,0,47500,0
-15:00 ~ 15:59,0,18,18,18 -> 15 -> 2 -> 9 -> 6 -> 17 -> 7 -> 1 -> 18,Depot_Gwang_Myeong -> Depot_Gimpo_Airport -> 서울 양천구 목동 -> 서울 양천구 목동_1 -> 서울 양천구 신정동 -> Depot_Kintex -> 서울 구로구 구로동 -> 서울 강서구 화곡동 -> Depot_Gwang_Myeong,24823,17250,47250,24823
-16:00 ~ 16:59,0,18,18,18 -> 15 -> 2 -> 9 -> 17 -> 6 -> 7 -> 1 -> 18,Depot_Gwang_Myeong -> Depot_Gimpo_Airport -> 서울 양천구 목동 -> 서울 양천구 목동_1 -> Depot_Kintex -> 서울 양천구 신정동 -> 서울 구로구 구로동 -> 서울 강서구 화곡동 -> Depot_Gwang_Myeong,24637,17323,47323,24637
-17:00 ~ 17:59,0,18,18,18 -> 18,Depot_Gwang_Myeong -> Depot_Gwang_Myeong,0,0,47500,0
-18:00 ~ 18:59,0,18,18,18 -> 18,Depot_Gwang_Myeong -> Depot_Gwang_Myeong,0,0,47500,0
-19:00 ~ 19:59,0,18,18,18 -> 15 -> 2 -> 9 -> 17 -> 6 -> 7 -> 1 -> 18,Depot_Gwang_Myeong -> Depot_Gimpo_Airport -> 서울 양천구 목동 -> 서울 양천구 목동_1 -> Depot_Kintex -> 서울 양천구 신정동 -> 서울 구로구 구로동 -> 서울 강서구 화곡동 -> Depot_Gwang_Myeong,24637,17282,47282,24637
-20:00 ~ 20:59,0,18,18,18 -> 15 -> 2 -> 9 -> 17 -> 6 -> 7 -> 1 -> 18,Depot_Gwang_Myeong -> Depot_Gimpo_Airport -> 서울 양천구 목동 -> 서울 양천구 목동_1 -> Depot_Kintex -> 서울 양천구 신정동 -> 서울 구로구 구로동 -> 서울 강서구 화곡동 -> Depot_Gwang_Myeong,24637,16515,46515,24637
-21:00 ~ 21:59,0,18,18,18 -> 18,Depot_Gwang_Myeong -> Depot_Gwang_Myeong,0,0,47500,0
-22:00 ~ 22:59,0,18,18,18 -> 15 -> 2 -> 9 -> 17 -> 6 -> 7 -> 1 -> 18,Depot_Gwang_Myeong -> Depot_Gimpo_Airport -> 서울 양천구 목동 -> 서울 양천구 목동_1 -> Depot_Kintex -> 서울 양천구 신정동 -> 서울 구로구 구로동 -> 서울 강서구 화곡동 -> Depot_Gwang_Myeong,24637,16879,46879,24637
-23:00 ~ 23:59,0,18,18,18 -> 15 -> 2 -> 9 -> 17 -> 6 -> 7 -> 1 -> 18,Depot_Gwang_Myeong -> Depot_Gimpo_Airport -> 서울 양천구 목동 -> 서울 양천구 목동_1 -> Depot_Kintex -> 서울 양천구 신정동 -> 서울 구로구 구로동 -> 서울 강서구 화곡동 -> Depot_Gwang_Myeong,24637,16881,46881,24637
+﻿time,vehicle_id,start_node,end_node,route_nodes,route_names,real_distance,cost,objectives,efficiency
+00:00 ~ 00:59,0,18,18,18 -> 18,Depot_Gwang_Myeong -> Depot_Gwang_Myeong,0,0,47500,0.0
+01:00 ~ 01:59,0,18,18,18 -> 15 -> 2 -> 9 -> 17 -> 6 -> 7 -> 1 -> 18,Depot_Gwang_Myeong -> Depot_Gimpo_Airport -> 서울 양천구 목동 -> 서울 양천구 목동_1 -> Depot_Kintex -> 서울 양천구 신정동 -> 서울 구로구 구로동 -> 서울 강서구 화곡동 -> Depot_Gwang_Myeong,24637,17066,47066,0.6926979745910622
+02:00 ~ 02:59,0,18,18,18 -> 15 -> 2 -> 9 -> 17 -> 6 -> 7 -> 1 -> 18,Depot_Gwang_Myeong -> Depot_Gimpo_Airport -> 서울 양천구 목동 -> 서울 양천구 목동_1 -> Depot_Kintex -> 서울 양천구 신정동 -> 서울 구로구 구로동 -> 서울 강서구 화곡동 -> Depot_Gwang_Myeong,24637,17077,47077,0.6931444575232374
+03:00 ~ 03:59,0,18,18,18 -> 15 -> 2 -> 9 -> 17 -> 6 -> 7 -> 1 -> 18,Depot_Gwang_Myeong -> Depot_Gimpo_Airport -> 서울 양천구 목동 -> 서울 양천구 목동_1 -> Depot_Kintex -> 서울 양천구 신정동 -> 서울 구로구 구로동 -> 서울 강서구 화곡동 -> Depot_Gwang_Myeong,24637,16968,46968,0.6887202175589561
+04:00 ~ 04:59,0,18,18,18 -> 15 -> 2 -> 9 -> 17 -> 6 -> 7 -> 1 -> 18,Depot_Gwang_Myeong -> Depot_Gimpo_Airport -> 서울 양천구 목동 -> 서울 양천구 목동_1 -> Depot_Kintex -> 서울 양천구 신정동 -> 서울 구로구 구로동 -> 서울 강서구 화곡동 -> Depot_Gwang_Myeong,24637,16596,46596,0.6736209765799407
+05:00 ~ 05:59,0,18,18,18 -> 15 -> 2 -> 9 -> 17 -> 6 -> 7 -> 1 -> 18,Depot_Gwang_Myeong -> Depot_Gimpo_Airport -> 서울 양천구 목동 -> 서울 양천구 목동_1 -> Depot_Kintex -> 서울 양천구 신정동 -> 서울 구로구 구로동 -> 서울 강서구 화곡동 -> Depot_Gwang_Myeong,24637,16625,46625,0.6747980679465844
+06:00 ~ 06:59,0,18,18,18 -> 15 -> 2 -> 9 -> 17 -> 6 -> 7 -> 1 -> 18,Depot_Gwang_Myeong -> Depot_Gimpo_Airport -> 서울 양천구 목동 -> 서울 양천구 목동_1 -> Depot_Kintex -> 서울 양천구 신정동 -> 서울 구로구 구로동 -> 서울 강서구 화곡동 -> Depot_Gwang_Myeong,24637,17273,47273,0.7010999715874497
+07:00 ~ 07:59,0,18,18,18 -> 18,Depot_Gwang_Myeong -> Depot_Gwang_Myeong,0,0,47500,0.0
+08:00 ~ 08:59,0,18,18,18 -> 18,Depot_Gwang_Myeong -> Depot_Gwang_Myeong,0,0,47500,0.0
+09:00 ~ 09:59,0,18,18,18 -> 15 -> 2 -> 9 -> 17 -> 6 -> 7 -> 1 -> 18,Depot_Gwang_Myeong -> Depot_Gimpo_Airport -> 서울 양천구 목동 -> 서울 양천구 목동_1 -> Depot_Kintex -> 서울 양천구 신정동 -> 서울 구로구 구로동 -> 서울 강서구 화곡동 -> Depot_Gwang_Myeong,24637,17293,47293,0.7019117587368592
+10:00 ~ 10:59,0,18,18,18 -> 18,Depot_Gwang_Myeong -> Depot_Gwang_Myeong,0,0,47500,0.0
+11:00 ~ 11:59,0,18,18,18 -> 18,Depot_Gwang_Myeong -> Depot_Gwang_Myeong,0,0,47500,0.0
+12:00 ~ 12:59,0,18,18,18 -> 18,Depot_Gwang_Myeong -> Depot_Gwang_Myeong,0,0,47500,0.0
+13:00 ~ 13:59,0,18,18,18 -> 15 -> 2 -> 9 -> 17 -> 6 -> 7 -> 1 -> 18,Depot_Gwang_Myeong -> Depot_Gimpo_Airport -> 서울 양천구 목동 -> 서울 양천구 목동_1 -> Depot_Kintex -> 서울 양천구 신정동 -> 서울 구로구 구로동 -> 서울 강서구 화곡동 -> Depot_Gwang_Myeong,24637,17306,47306,0.7024394203839753
+14:00 ~ 14:59,0,18,18,18 -> 18,Depot_Gwang_Myeong -> Depot_Gwang_Myeong,0,0,47500,0.0
+15:00 ~ 15:59,0,18,18,18 -> 15 -> 2 -> 9 -> 6 -> 17 -> 7 -> 1 -> 18,Depot_Gwang_Myeong -> Depot_Gimpo_Airport -> 서울 양천구 목동 -> 서울 양천구 목동_1 -> 서울 양천구 신정동 -> Depot_Kintex -> 서울 구로구 구로동 -> 서울 강서구 화곡동 -> Depot_Gwang_Myeong,24823,17250,47250,0.6949200338395842
+16:00 ~ 16:59,0,18,18,18 -> 15 -> 2 -> 9 -> 17 -> 6 -> 7 -> 1 -> 18,Depot_Gwang_Myeong -> Depot_Gimpo_Airport -> 서울 양천구 목동 -> 서울 양천구 목동_1 -> Depot_Kintex -> 서울 양천구 신정동 -> 서울 구로구 구로동 -> 서울 강서구 화곡동 -> Depot_Gwang_Myeong,24637,17323,47323,0.7031294394609733
+17:00 ~ 17:59,0,18,18,18 -> 18,Depot_Gwang_Myeong -> Depot_Gwang_Myeong,0,0,47500,0.0
+18:00 ~ 18:59,0,18,18,18 -> 18,Depot_Gwang_Myeong -> Depot_Gwang_Myeong,0,0,47500,0.0
+19:00 ~ 19:59,0,18,18,18 -> 15 -> 2 -> 9 -> 17 -> 6 -> 7 -> 1 -> 18,Depot_Gwang_Myeong -> Depot_Gimpo_Airport -> 서울 양천구 목동 -> 서울 양천구 목동_1 -> Depot_Kintex -> 서울 양천구 신정동 -> 서울 구로구 구로동 -> 서울 강서구 화곡동 -> Depot_Gwang_Myeong,24637,17282,47282,0.701465275804684
+20:00 ~ 20:59,0,18,18,18 -> 15 -> 2 -> 9 -> 17 -> 6 -> 7 -> 1 -> 18,Depot_Gwang_Myeong -> Depot_Gimpo_Airport -> 서울 양천구 목동 -> 서울 양천구 목동_1 -> Depot_Kintex -> 서울 양천구 신정동 -> 서울 구로구 구로동 -> 서울 강서구 화곡동 -> Depot_Gwang_Myeong,24637,16515,46515,0.6703332386248325
+21:00 ~ 21:59,0,18,18,18 -> 18,Depot_Gwang_Myeong -> Depot_Gwang_Myeong,0,0,47500,0.0
+22:00 ~ 22:59,0,18,18,18 -> 15 -> 2 -> 9 -> 17 -> 6 -> 7 -> 1 -> 18,Depot_Gwang_Myeong -> Depot_Gimpo_Airport -> 서울 양천구 목동 -> 서울 양천구 목동_1 -> Depot_Kintex -> 서울 양천구 신정동 -> 서울 구로구 구로동 -> 서울 강서구 화곡동 -> Depot_Gwang_Myeong,24637,16879,46879,0.6851077647440841
+23:00 ~ 23:59,0,18,18,18 -> 15 -> 2 -> 9 -> 17 -> 6 -> 7 -> 1 -> 18,Depot_Gwang_Myeong -> Depot_Gimpo_Airport -> 서울 양천구 목동 -> 서울 양천구 목동_1 -> Depot_Kintex -> 서울 양천구 신정동 -> 서울 구로구 구로동 -> 서울 강서구 화곡동 -> Depot_Gwang_Myeong,24637,16881,46881,0.685188943459025

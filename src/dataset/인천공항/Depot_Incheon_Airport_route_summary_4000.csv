@@ -1,4 +1,4 @@
-﻿time,vehicle_id,start_node,end_node,route_nodes,route_names,real_distance,cost,objectives,total_real_distance
+﻿time,vehicle_id,start_node,end_node,route_nodes,route_names,real_distance,cost,objectives,efficiency
 00:00 ~ 00:59,0,19,19,19 -> 19,Depot_Incheon_Airport -> Depot_Incheon_Airport,0,0,76000,0
 01:00 ~ 01:59,0,19,19,19 -> 19,Depot_Incheon_Airport -> Depot_Incheon_Airport,0,0,76000,0
 02:00 ~ 02:59,0,19,19,19 -> 19,Depot_Incheon_Airport -> Depot_Incheon_Airport,0,0,76000,0

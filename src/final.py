@@ -17,11 +17,11 @@ from ortools.constraint_solver import pywrapcp
 
 CONFIG = {
     "num_vehicles": 1,
-    "start_depot": "Depot_Beom_Gye",
-    "end_depot": "Depot_Beom_Gye",
+    "start_depot": "Depot_Kintex",
+    "end_depot": "Depot_Kintex",
     "penalty": 6000,
-    "output_folder": "범계",
-    "output_prefix": "Depot_Beom_Gye",
+    "output_folder": "Kintex",
+    "output_prefix": "Depot_Kintex",
     "designated_time": "08:00 ~ 08:59",
     "make_animation": True,
 
@@ -365,7 +365,7 @@ def extract_route_records(data, manager, routing, solution, current_time):
             "real_distance": total_real_distance,
             "cost": total_cost,
             "objectives" : solution.ObjectiveValue(),
-            "total_real_distance": total_real_distance
+            "efficiency": route_efficiency
         })
 
     return summary_records, step_records

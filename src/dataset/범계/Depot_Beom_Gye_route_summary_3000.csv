@@ -1,25 +1,25 @@
-﻿time,vehicle_id,start_node,end_node,route_nodes,route_names,real_distance,cost,objectives,total_real_distance
-00:00 ~ 00:59,0,16,16,16 -> 16,Depot_Beom_Gye -> Depot_Beom_Gye,0,0,57000,0
-01:00 ~ 01:59,0,16,16,16 -> 16,Depot_Beom_Gye -> Depot_Beom_Gye,0,0,57000,0
-02:00 ~ 02:59,0,16,16,16 -> 5 -> 16,Depot_Beom_Gye -> 경기 안양시 동안구 평촌동 -> Depot_Beom_Gye,3120,2997,56997,3120
-03:00 ~ 03:59,0,16,16,16 -> 5 -> 16,Depot_Beom_Gye -> 경기 안양시 동안구 평촌동 -> Depot_Beom_Gye,3120,2975,56975,3120
-04:00 ~ 04:59,0,16,16,16 -> 5 -> 16,Depot_Beom_Gye -> 경기 안양시 동안구 평촌동 -> Depot_Beom_Gye,3120,2957,56957,3120
-05:00 ~ 05:59,0,16,16,16 -> 5 -> 16,Depot_Beom_Gye -> 경기 안양시 동안구 평촌동 -> Depot_Beom_Gye,3120,2900,56900,3120
-06:00 ~ 06:59,0,16,16,16 -> 5 -> 16,Depot_Beom_Gye -> 경기 안양시 동안구 평촌동 -> Depot_Beom_Gye,3120,2817,56817,3120
-07:00 ~ 07:59,0,16,16,16 -> 16,Depot_Beom_Gye -> Depot_Beom_Gye,0,0,57000,0
-08:00 ~ 08:59,0,16,16,16 -> 16,Depot_Beom_Gye -> Depot_Beom_Gye,0,0,57000,0
-09:00 ~ 09:59,0,16,16,16 -> 16,Depot_Beom_Gye -> Depot_Beom_Gye,0,0,57000,0
-10:00 ~ 10:59,0,16,16,16 -> 16,Depot_Beom_Gye -> Depot_Beom_Gye,0,0,57000,0
-11:00 ~ 11:59,0,16,16,16 -> 16,Depot_Beom_Gye -> Depot_Beom_Gye,0,0,57000,0
-12:00 ~ 12:59,0,16,16,16 -> 5 -> 16,Depot_Beom_Gye -> 경기 안양시 동안구 평촌동 -> Depot_Beom_Gye,3120,2983,56983,3120
-13:00 ~ 13:59,0,16,16,16 -> 16,Depot_Beom_Gye -> Depot_Beom_Gye,0,0,57000,0
-14:00 ~ 14:59,0,16,16,16 -> 5 -> 16,Depot_Beom_Gye -> 경기 안양시 동안구 평촌동 -> Depot_Beom_Gye,3120,2940,56940,3120
-15:00 ~ 15:59,0,16,16,16 -> 16,Depot_Beom_Gye -> Depot_Beom_Gye,0,0,57000,0
-16:00 ~ 16:59,0,16,16,16 -> 16,Depot_Beom_Gye -> Depot_Beom_Gye,0,0,57000,0
-17:00 ~ 17:59,0,16,16,16 -> 16,Depot_Beom_Gye -> Depot_Beom_Gye,0,0,57000,0
-18:00 ~ 18:59,0,16,16,16 -> 16,Depot_Beom_Gye -> Depot_Beom_Gye,0,0,57000,0
-19:00 ~ 19:59,0,16,16,16 -> 16,Depot_Beom_Gye -> Depot_Beom_Gye,0,0,57000,0
-20:00 ~ 20:59,0,16,16,16 -> 16,Depot_Beom_Gye -> Depot_Beom_Gye,0,0,57000,0
-21:00 ~ 21:59,0,16,16,16 -> 5 -> 16,Depot_Beom_Gye -> 경기 안양시 동안구 평촌동 -> Depot_Beom_Gye,3120,2983,56983,3120
-22:00 ~ 22:59,0,16,16,16 -> 16,Depot_Beom_Gye -> Depot_Beom_Gye,0,0,57000,0
-23:00 ~ 23:59,0,16,16,16 -> 16,Depot_Beom_Gye -> Depot_Beom_Gye,0,0,57000,0
+﻿time,vehicle_id,start_node,end_node,route_nodes,route_names,real_distance,cost,objectives,efficiency
+00:00 ~ 00:59,0,16,16,16 -> 16,Depot_Beom_Gye -> Depot_Beom_Gye,0,0,57000,0.0
+01:00 ~ 01:59,0,16,16,16 -> 16,Depot_Beom_Gye -> Depot_Beom_Gye,0,0,57000,0.0
+02:00 ~ 02:59,0,16,16,16 -> 5 -> 16,Depot_Beom_Gye -> 경기 안양시 동안구 평촌동 -> Depot_Beom_Gye,3120,2997,56997,0.9605769230769231
+03:00 ~ 03:59,0,16,16,16 -> 5 -> 16,Depot_Beom_Gye -> 경기 안양시 동안구 평촌동 -> Depot_Beom_Gye,3120,2975,56975,0.9535256410256411
+04:00 ~ 04:59,0,16,16,16 -> 5 -> 16,Depot_Beom_Gye -> 경기 안양시 동안구 평촌동 -> Depot_Beom_Gye,3120,2957,56957,0.9477564102564102
+05:00 ~ 05:59,0,16,16,16 -> 5 -> 16,Depot_Beom_Gye -> 경기 안양시 동안구 평촌동 -> Depot_Beom_Gye,3120,2900,56900,0.9294871794871795
+06:00 ~ 06:59,0,16,16,16 -> 5 -> 16,Depot_Beom_Gye -> 경기 안양시 동안구 평촌동 -> Depot_Beom_Gye,3120,2817,56817,0.9028846153846154
+07:00 ~ 07:59,0,16,16,16 -> 16,Depot_Beom_Gye -> Depot_Beom_Gye,0,0,57000,0.0
+08:00 ~ 08:59,0,16,16,16 -> 16,Depot_Beom_Gye -> Depot_Beom_Gye,0,0,57000,0.0
+09:00 ~ 09:59,0,16,16,16 -> 16,Depot_Beom_Gye -> Depot_Beom_Gye,0,0,57000,0.0
+10:00 ~ 10:59,0,16,16,16 -> 16,Depot_Beom_Gye -> Depot_Beom_Gye,0,0,57000,0.0
+11:00 ~ 11:59,0,16,16,16 -> 16,Depot_Beom_Gye -> Depot_Beom_Gye,0,0,57000,0.0
+12:00 ~ 12:59,0,16,16,16 -> 5 -> 16,Depot_Beom_Gye -> 경기 안양시 동안구 평촌동 -> Depot_Beom_Gye,3120,2983,56983,0.9560897435897436
+13:00 ~ 13:59,0,16,16,16 -> 16,Depot_Beom_Gye -> Depot_Beom_Gye,0,0,57000,0.0
+14:00 ~ 14:59,0,16,16,16 -> 5 -> 16,Depot_Beom_Gye -> 경기 안양시 동안구 평촌동 -> Depot_Beom_Gye,3120,2940,56940,0.9423076923076923
+15:00 ~ 15:59,0,16,16,16 -> 16,Depot_Beom_Gye -> Depot_Beom_Gye,0,0,57000,0.0
+16:00 ~ 16:59,0,16,16,16 -> 16,Depot_Beom_Gye -> Depot_Beom_Gye,0,0,57000,0.0
+17:00 ~ 17:59,0,16,16,16 -> 16,Depot_Beom_Gye -> Depot_Beom_Gye,0,0,57000,0.0
+18:00 ~ 18:59,0,16,16,16 -> 16,Depot_Beom_Gye -> Depot_Beom_Gye,0,0,57000,0.0
+19:00 ~ 19:59,0,16,16,16 -> 16,Depot_Beom_Gye -> Depot_Beom_Gye,0,0,57000,0.0
+20:00 ~ 20:59,0,16,16,16 -> 16,Depot_Beom_Gye -> Depot_Beom_Gye,0,0,57000,0.0
+21:00 ~ 21:59,0,16,16,16 -> 5 -> 16,Depot_Beom_Gye -> 경기 안양시 동안구 평촌동 -> Depot_Beom_Gye,3120,2983,56983,0.9560897435897436
+22:00 ~ 22:59,0,16,16,16 -> 16,Depot_Beom_Gye -> Depot_Beom_Gye,0,0,57000,0.0
+23:00 ~ 23:59,0,16,16,16 -> 16,Depot_Beom_Gye -> Depot_Beom_Gye,0,0,57000,0.0
