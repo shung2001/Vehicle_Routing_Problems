@@ -1,0 +1,25 @@
+﻿time,vehicle_id,step,from_node,from_name,to_node,to_name,real_distance,cost,efficiency,total_real_distance,total_spent_time,objectives
+00:00 ~ 00:59,0,0,17,Depot_Kintex,17,Depot_Kintex,0,0,0,0,0,209000
+01:00 ~ 01:59,0,0,17,Depot_Kintex,17,Depot_Kintex,0,0,0,0,0,209000
+02:00 ~ 02:59,0,0,17,Depot_Kintex,17,Depot_Kintex,0,0,0,0,0,209000
+03:00 ~ 03:59,0,0,17,Depot_Kintex,17,Depot_Kintex,0,0,0,0,0,209000
+04:00 ~ 04:59,0,0,17,Depot_Kintex,17,Depot_Kintex,0,0,0,0,0,209000
+05:00 ~ 05:59,0,0,17,Depot_Kintex,17,Depot_Kintex,0,0,0,0,0,209000
+06:00 ~ 06:59,0,0,17,Depot_Kintex,17,Depot_Kintex,0,0,0,0,0,209000
+07:00 ~ 07:59,0,0,17,Depot_Kintex,17,Depot_Kintex,0,0,0,0,0,209000
+08:00 ~ 08:59,0,0,17,Depot_Kintex,17,Depot_Kintex,0,0,0,0,0,209000
+09:00 ~ 09:59,0,0,17,Depot_Kintex,17,Depot_Kintex,0,0,0,0,0,209000
+10:00 ~ 10:59,0,0,17,Depot_Kintex,17,Depot_Kintex,0,0,0,0,0,209000
+11:00 ~ 11:59,0,0,17,Depot_Kintex,17,Depot_Kintex,0,0,0,0,0,209000
+12:00 ~ 12:59,0,0,17,Depot_Kintex,17,Depot_Kintex,0,0,0,0,0,209000
+13:00 ~ 13:59,0,0,17,Depot_Kintex,17,Depot_Kintex,0,0,0,0,0,209000
+14:00 ~ 14:59,0,0,17,Depot_Kintex,17,Depot_Kintex,0,0,0,0,0,209000
+15:00 ~ 15:59,0,0,17,Depot_Kintex,17,Depot_Kintex,0,0,0,0,0,209000
+16:00 ~ 16:59,0,0,17,Depot_Kintex,17,Depot_Kintex,0,0,0,0,0,209000
+17:00 ~ 17:59,0,0,17,Depot_Kintex,17,Depot_Kintex,0,0,0,0,0,209000
+18:00 ~ 18:59,0,0,17,Depot_Kintex,17,Depot_Kintex,0,0,0,0,0,209000
+19:00 ~ 19:59,0,0,17,Depot_Kintex,17,Depot_Kintex,0,0,0,0,0,209000
+20:00 ~ 20:59,0,0,17,Depot_Kintex,17,Depot_Kintex,0,0,0,0,0,209000
+21:00 ~ 21:59,0,0,17,Depot_Kintex,17,Depot_Kintex,0,0,0,0,0,209000
+22:00 ~ 22:59,0,0,17,Depot_Kintex,17,Depot_Kintex,0,0,0,0,0,209000
+23:00 ~ 23:59,0,0,17,Depot_Kintex,17,Depot_Kintex,0,0,0,0,0,209000
